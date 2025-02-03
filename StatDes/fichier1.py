@@ -20,8 +20,8 @@ df1.to_csv("Statapp/Bases/parc_vp_region_2024_1_PR.xlsx", index=False)
 df2.to_csv("Statapp/Bases/parc_vp_region_2024_1_Dis.xlsx", index=False)
 df3.to_csv("Statapp/Bases/parc_vp_region_2024_1_PAM.xlsx", index=False)
 
-
-'''# Afficher les premières lignes de chaque DataFrame pour vérifier
+'''
+# Afficher les premières lignes de chaque DataFrame pour vérifier
 print("DF1:")
 print(df1.head())
 
@@ -66,8 +66,8 @@ df_with_modifications = pd.concat([df_with_copied_rows.iloc[:30], df_lines_30_59
 '''
 Tracer les distances parcourues par an selon les années selon les carburants. 
 D'abord en total puis séparés selon professionels ou particuliers
-
 '''
+
 # Charger les données dans un DataFrame
 df_distance_tot = df_with_modifications.iloc[:10].reset_index(drop=True)
 
@@ -80,16 +80,7 @@ df_distance_tot = df_distance_tot[df_distance_tot["Carburant"] != "Total"]
 # Sélectionner les années (colonnes à partir de la 4ᵉ colonne)
 years = df_distance_tot.columns[3:]
 
-import matplotlib.pyplot as plt
 
-# Crée un simple graphique pour tester
-plt.plot([0, 1, 2], [0, 1, 4])
-plt.title('Test Graphique')
-plt.xlabel('X')
-plt.ylabel('Y')
-
-plt.show()
-'''
 # Tracer les courbes
 plt.figure(figsize=(12, 6))
 
@@ -106,4 +97,3 @@ plt.legend(loc="upper left", bbox_to_anchor=(1, 1))  # Mettre la légende en deh
 plt.xticks(rotation=45)  # Rotation des années pour une meilleure lisibilité
 plt.grid(True)
 plt.show()
-'''
