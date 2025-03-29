@@ -1,0 +1,1483 @@
+,Type de véhicule,Statut de l'utilisateur,Année,Région de résidence,Kilometrage,Nombre_de_véhicules
+0,Thermiques,Particulier,2011,Auvergne-Rhône-Alpes,12185.184836148968,4072270.0
+1,Thermiques,Particulier,2011,Bourgogne-Franche-Comté,12469.950913525554,1571623.0
+2,Thermiques,Particulier,2011,Bretagne,12858.84086635342,1801251.0
+3,Thermiques,Particulier,2011,Centre-Val de Loire,12507.325541277381,1431977.0
+4,Thermiques,Particulier,2011,Corse,10622.061425105938,169830.0
+5,Thermiques,Particulier,2011,Grand Est,12857.594780340429,2911543.0
+6,Thermiques,Particulier,2011,Guadeloupe,14383.177941047925,160047.0
+7,Thermiques,Particulier,2011,Guyane,14092.312369214049,43338.0
+8,Thermiques,Particulier,2011,Hauts-de-France,12949.23747216245,2901684.0
+9,Thermiques,Particulier,2011,Inconnue,12705.476224300919,2142.0
+10,Thermiques,Particulier,2011,La Réunion,13522.950173601836,297121.0
+11,Thermiques,Particulier,2011,Martinique,12963.467418023236,169422.0
+12,Thermiques,Particulier,2011,Mayotte,16952.478713608518,5351.0
+13,Thermiques,Particulier,2011,Normandie,12830.696052846366,1766362.0
+14,Thermiques,Particulier,2011,Nouvelle-Aquitaine,12552.08356387441,3339536.0
+15,Thermiques,Particulier,2011,Occitanie,12611.955083602827,3090000.0
+16,Thermiques,Particulier,2011,Pays de la Loire,12692.687722596895,1975700.0
+17,Thermiques,Particulier,2011,Provence-Alpes-Côte d'Azur,11590.670696151255,2635093.0
+18,Thermiques,Particulier,2011,Île-de-France,11326.047787792902,4403772.0
+19,Thermiques,Particulier,2012,Auvergne-Rhône-Alpes,12097.711802846132,4157899.0
+20,Thermiques,Particulier,2012,Bourgogne-Franche-Comté,12389.202747577676,1594108.0
+21,Thermiques,Particulier,2012,Bretagne,12760.863706519118,1839235.0
+22,Thermiques,Particulier,2012,Centre-Val de Loire,12419.93854258092,1454782.0
+23,Thermiques,Particulier,2012,Corse,10509.093954959057,172600.0
+24,Thermiques,Particulier,2012,Grand Est,12760.215808298659,2964555.0
+25,Thermiques,Particulier,2012,Guadeloupe,14306.916085571169,161345.0
+26,Thermiques,Particulier,2012,Guyane,13904.348744265386,45182.0
+27,Thermiques,Particulier,2012,Hauts-de-France,12840.763981945875,2937752.0
+28,Thermiques,Particulier,2012,Inconnue,20455.444424788526,3502.0
+29,Thermiques,Particulier,2012,La Réunion,13402.929113270255,302471.0
+30,Thermiques,Particulier,2012,Martinique,12866.162869371796,171103.0
+31,Thermiques,Particulier,2012,Mayotte,15183.524940858824,8804.0
+32,Thermiques,Particulier,2012,Normandie,12724.699768188739,1801339.0
+33,Thermiques,Particulier,2012,Nouvelle-Aquitaine,12434.01820531081,3403137.0
+34,Thermiques,Particulier,2012,Occitanie,12485.836037709289,3152268.0
+35,Thermiques,Particulier,2012,Pays de la Loire,12603.219319187778,2013590.0
+36,Thermiques,Particulier,2012,Provence-Alpes-Côte d'Azur,11477.722784340913,2666371.0
+37,Thermiques,Particulier,2012,Île-de-France,11221.302081644122,4438587.0
+38,Thermiques,Particulier,2013,Auvergne-Rhône-Alpes,12024.938396611316,4197694.0
+39,Thermiques,Particulier,2013,Bourgogne-Franche-Comté,12331.905206632804,1602351.0
+40,Thermiques,Particulier,2013,Bretagne,12690.852046249436,1850288.0
+41,Thermiques,Particulier,2013,Centre-Val de Loire,12347.974250017473,1460985.0
+42,Thermiques,Particulier,2013,Corse,10397.922892852683,175448.0
+43,Thermiques,Particulier,2013,Grand Est,12661.650378100403,2984214.0
+44,Thermiques,Particulier,2013,Guadeloupe,14107.017294658428,161723.0
+45,Thermiques,Particulier,2013,Guyane,13679.67019674775,46509.0
+46,Thermiques,Particulier,2013,Hauts-de-France,12734.642001901031,2953128.0
+47,Thermiques,Particulier,2013,Inconnue,19880.579717176748,3754.0
+48,Thermiques,Particulier,2013,La Réunion,13212.44302658265,308050.0
+49,Thermiques,Particulier,2013,Martinique,12723.072734712256,171440.0
+50,Thermiques,Particulier,2013,Mayotte,14538.52353699773,11823.0
+51,Thermiques,Particulier,2013,Normandie,12627.49487174363,1809701.0
+52,Thermiques,Particulier,2013,Nouvelle-Aquitaine,12347.210805057059,3434111.0
+53,Thermiques,Particulier,2013,Occitanie,12366.234519212081,3183663.0
+54,Thermiques,Particulier,2013,Pays de la Loire,12550.88194156742,2033000.0
+55,Thermiques,Particulier,2013,Provence-Alpes-Côte d'Azur,11362.452895460316,2680810.0
+56,Thermiques,Particulier,2013,Île-de-France,11128.748465203465,4451925.0
+57,Thermiques,Particulier,2014,Auvergne-Rhône-Alpes,12035.999619442282,4241419.0
+58,Thermiques,Particulier,2014,Bourgogne-Franche-Comté,12377.693118811034,1613202.0
+59,Thermiques,Particulier,2014,Bretagne,12712.901215377577,1870170.0
+60,Thermiques,Particulier,2014,Centre-Val de Loire,12361.412936164534,1471366.0
+61,Thermiques,Particulier,2014,Corse,10352.738690133843,177835.0
+62,Thermiques,Particulier,2014,Grand Est,12681.720702443483,3008493.0
+63,Thermiques,Particulier,2014,Guadeloupe,13987.823904585419,162900.0
+64,Thermiques,Particulier,2014,Guyane,13642.809004650648,47733.0
+65,Thermiques,Particulier,2014,Hauts-de-France,12754.159127251369,2978738.0
+66,Thermiques,Particulier,2014,Inconnue,16126.405509998347,3042.0
+67,Thermiques,Particulier,2014,La Réunion,13099.164718500837,316411.0
+68,Thermiques,Particulier,2014,Martinique,12636.000690618197,172751.0
+69,Thermiques,Particulier,2014,Mayotte,14410.54104047721,13218.0
+70,Thermiques,Particulier,2014,Normandie,12645.660470089686,1823846.0
+71,Thermiques,Particulier,2014,Nouvelle-Aquitaine,12347.144742388435,3473907.0
+72,Thermiques,Particulier,2014,Occitanie,12348.435409034604,3228407.0
+73,Thermiques,Particulier,2014,Pays de la Loire,12563.709802920912,2055937.0
+74,Thermiques,Particulier,2014,Provence-Alpes-Côte d'Azur,11332.210849469058,2701824.0
+75,Thermiques,Particulier,2014,Île-de-France,11147.16070812808,4476460.0
+76,Thermiques,Particulier,2015,Auvergne-Rhône-Alpes,12052.838605183762,4302451.0
+77,Thermiques,Particulier,2015,Bourgogne-Franche-Comté,12415.979327713567,1628428.0
+78,Thermiques,Particulier,2015,Bretagne,12749.259937895757,1899291.0
+79,Thermiques,Particulier,2015,Centre-Val de Loire,12382.2147300087,1486002.0
+80,Thermiques,Particulier,2015,Corse,10335.370254059091,180596.0
+81,Thermiques,Particulier,2015,Grand Est,12713.586198291436,3043819.0
+82,Thermiques,Particulier,2015,Guadeloupe,13985.738024176084,165244.0
+83,Thermiques,Particulier,2015,Guyane,13695.402739658159,49040.0
+84,Thermiques,Particulier,2015,Hauts-de-France,12782.33751731533,3011842.0
+85,Thermiques,Particulier,2015,Inconnue,14612.431624044417,2514.0
+86,Thermiques,Particulier,2015,La Réunion,13033.15017590557,325615.0
+87,Thermiques,Particulier,2015,Martinique,12587.27310062552,174582.0
+88,Thermiques,Particulier,2015,Mayotte,14326.021112013344,14354.0
+89,Thermiques,Particulier,2015,Normandie,12679.682877566514,1842940.0
+90,Thermiques,Particulier,2015,Nouvelle-Aquitaine,12360.220766929082,3524497.0
+91,Thermiques,Particulier,2015,Occitanie,12355.097425232143,3287112.0
+92,Thermiques,Particulier,2015,Pays de la Loire,12578.413742662082,2081758.0
+93,Thermiques,Particulier,2015,Provence-Alpes-Côte d'Azur,11325.580763317537,2736339.0
+94,Thermiques,Particulier,2015,Île-de-France,11180.358039207484,4521158.0
+95,Thermiques,Particulier,2016,Auvergne-Rhône-Alpes,12074.132846329172,4364082.0
+96,Thermiques,Particulier,2016,Bourgogne-Franche-Comté,12463.578270538994,1646272.0
+97,Thermiques,Particulier,2016,Bretagne,12780.89919819502,1926690.0
+98,Thermiques,Particulier,2016,Centre-Val de Loire,12426.596345417594,1500529.0
+99,Thermiques,Particulier,2016,Corse,10332.39928092829,182553.0
+100,Thermiques,Particulier,2016,Grand Est,12754.587054980055,3077963.0
+101,Thermiques,Particulier,2016,Guadeloupe,13928.178828412196,168667.0
+102,Thermiques,Particulier,2016,Guyane,13761.461598171947,50361.0
+103,Thermiques,Particulier,2016,Hauts-de-France,12812.267588589124,3044689.0
+104,Thermiques,Particulier,2016,Inconnue,14184.025393396032,2121.0
+105,Thermiques,Particulier,2016,La Réunion,12992.13933597575,335894.0
+106,Thermiques,Particulier,2016,Martinique,12590.558905186535,178561.0
+107,Thermiques,Particulier,2016,Mayotte,14217.173132163662,15284.0
+108,Thermiques,Particulier,2016,Normandie,12714.728598218673,1861414.0
+109,Thermiques,Particulier,2016,Nouvelle-Aquitaine,12379.22949680404,3569507.0
+110,Thermiques,Particulier,2016,Occitanie,12372.290176323193,3342593.0
+111,Thermiques,Particulier,2016,Pays de la Loire,12598.824452048591,2111664.0
+112,Thermiques,Particulier,2016,Provence-Alpes-Côte d'Azur,11340.5153431554,2764797.0
+113,Thermiques,Particulier,2016,Île-de-France,11220.099432342206,4555484.0
+114,Thermiques,Particulier,2017,Auvergne-Rhône-Alpes,11975.43680115444,4413907.0
+115,Thermiques,Particulier,2017,Bourgogne-Franche-Comté,12372.214558536896,1661249.0
+116,Thermiques,Particulier,2017,Bretagne,12670.38828553049,1949689.0
+117,Thermiques,Particulier,2017,Centre-Val de Loire,12315.724410590592,1512223.0
+118,Thermiques,Particulier,2017,Corse,10198.607924242697,184542.0
+119,Thermiques,Particulier,2017,Grand Est,12659.474025599196,3108813.0
+120,Thermiques,Particulier,2017,Guadeloupe,13759.624959446268,170927.0
+121,Thermiques,Particulier,2017,Guyane,13733.468174170392,51175.0
+122,Thermiques,Particulier,2017,Hauts-de-France,12683.973044749087,3074922.0
+123,Thermiques,Particulier,2017,Inconnue,13859.855424858719,1809.0
+124,Thermiques,Particulier,2017,La Réunion,12769.128702657235,346113.0
+125,Thermiques,Particulier,2017,Martinique,12492.044701766887,181097.0
+126,Thermiques,Particulier,2017,Mayotte,13989.739269319172,16476.0
+127,Thermiques,Particulier,2017,Normandie,12591.090399369288,1878740.0
+128,Thermiques,Particulier,2017,Nouvelle-Aquitaine,12250.201144773839,3609693.0
+129,Thermiques,Particulier,2017,Occitanie,12243.285265385097,3389327.0
+130,Thermiques,Particulier,2017,Pays de la Loire,12491.027107950098,2138987.0
+131,Thermiques,Particulier,2017,Provence-Alpes-Côte d'Azur,11223.184747137133,2787647.0
+132,Thermiques,Particulier,2017,Île-de-France,11114.877059304503,4572854.0
+133,Thermiques,Particulier,2018,Auvergne-Rhône-Alpes,11823.55034132729,4461360.0
+134,Thermiques,Particulier,2018,Bourgogne-Franche-Comté,12216.429149745956,1670234.0
+135,Thermiques,Particulier,2018,Bretagne,12507.383508314906,1972672.0
+136,Thermiques,Particulier,2018,Centre-Val de Loire,12136.473566890976,1519137.0
+137,Thermiques,Particulier,2018,Corse,10092.843219289738,187335.0
+138,Thermiques,Particulier,2018,Grand Est,12495.067701299988,3131335.0
+139,Thermiques,Particulier,2018,Guadeloupe,13665.556199686838,172149.0
+140,Thermiques,Particulier,2018,Guyane,13798.871904212923,51632.0
+141,Thermiques,Particulier,2018,Hauts-de-France,12500.353196682529,3101119.0
+142,Thermiques,Particulier,2018,Inconnue,13526.931182610793,1604.0
+143,Thermiques,Particulier,2018,La Réunion,12529.177404804008,354639.0
+144,Thermiques,Particulier,2018,Martinique,12338.932428845053,182469.0
+145,Thermiques,Particulier,2018,Mayotte,13935.337739337094,17047.0
+146,Thermiques,Particulier,2018,Normandie,12405.683930469895,1893266.0
+147,Thermiques,Particulier,2018,Nouvelle-Aquitaine,12071.858042749218,3642620.0
+148,Thermiques,Particulier,2018,Occitanie,12066.151057790918,3438067.0
+149,Thermiques,Particulier,2018,Pays de la Loire,12330.542395214066,2158459.0
+150,Thermiques,Particulier,2018,Provence-Alpes-Côte d'Azur,11059.491057816578,2815654.0
+151,Thermiques,Particulier,2018,Île-de-France,10976.045271716717,4583115.0
+152,Thermiques,Particulier,2019,Auvergne-Rhône-Alpes,11860.89418889035,4478475.0
+153,Thermiques,Particulier,2019,Bourgogne-Franche-Comté,12260.066586408433,1665906.0
+154,Thermiques,Particulier,2019,Bretagne,12541.264816917912,1974053.0
+155,Thermiques,Particulier,2019,Centre-Val de Loire,12141.820970879979,1510958.0
+156,Thermiques,Particulier,2019,Corse,10129.235651520788,187921.0
+157,Thermiques,Particulier,2019,Grand Est,12526.71127780365,3138673.0
+158,Thermiques,Particulier,2019,Guadeloupe,13752.05635482992,173202.0
+159,Thermiques,Particulier,2019,Guyane,13888.96063976613,51938.0
+160,Thermiques,Particulier,2019,Hauts-de-France,12528.611716999249,3111156.0
+161,Thermiques,Particulier,2019,Inconnue,13866.834152682743,1519.0
+162,Thermiques,Particulier,2019,La Réunion,12619.93051105582,357258.0
+163,Thermiques,Particulier,2019,Martinique,12417.063495828177,181738.0
+164,Thermiques,Particulier,2019,Mayotte,14283.645778396613,17237.0
+165,Thermiques,Particulier,2019,Normandie,12428.641482816933,1889139.0
+166,Thermiques,Particulier,2019,Nouvelle-Aquitaine,12100.87768468453,3641675.0
+167,Thermiques,Particulier,2019,Occitanie,12098.338014217989,3446305.0
+168,Thermiques,Particulier,2019,Pays de la Loire,12352.151354741563,2161742.0
+169,Thermiques,Particulier,2019,Provence-Alpes-Côte d'Azur,11094.286094201121,2816824.0
+170,Thermiques,Particulier,2019,Île-de-France,11050.219275116158,4552625.0
+171,Thermiques,Particulier,2020,Auvergne-Rhône-Alpes,9623.538915934423,4482306.0
+172,Thermiques,Particulier,2020,Bourgogne-Franche-Comté,9949.722750617892,1662209.0
+173,Thermiques,Particulier,2020,Bretagne,10180.694548824027,1975448.0
+174,Thermiques,Particulier,2020,Centre-Val de Loire,9808.746513374754,1506985.0
+175,Thermiques,Particulier,2020,Corse,8257.265872896593,186624.0
+176,Thermiques,Particulier,2020,Grand Est,10160.285917610761,3151799.0
+177,Thermiques,Particulier,2020,Guadeloupe,11211.343974016543,174156.0
+178,Thermiques,Particulier,2020,Guyane,11299.22419967695,52024.0
+179,Thermiques,Particulier,2020,Hauts-de-France,10170.460042576027,3130456.0
+180,Thermiques,Particulier,2020,Inconnue,11750.212407895357,2120.0
+181,Thermiques,Particulier,2020,La Réunion,10472.719651003625,361328.0
+182,Thermiques,Particulier,2020,Martinique,10138.510044139113,178924.0
+183,Thermiques,Particulier,2020,Mayotte,11895.822244927216,17457.0
+184,Thermiques,Particulier,2020,Normandie,10073.983815716683,1886539.0
+185,Thermiques,Particulier,2020,Nouvelle-Aquitaine,9799.608341334353,3643152.0
+186,Thermiques,Particulier,2020,Occitanie,9806.039972410585,3447734.0
+187,Thermiques,Particulier,2020,Pays de la Loire,10007.053336743289,2165603.0
+188,Thermiques,Particulier,2020,Provence-Alpes-Côte d'Azur,9008.274287969654,2809798.0
+189,Thermiques,Particulier,2020,Île-de-France,8989.597455224679,4543967.0
+190,Thermiques,Particulier,2021,Auvergne-Rhône-Alpes,10439.217197827842,4481229.0
+191,Thermiques,Particulier,2021,Bourgogne-Franche-Comté,10754.689855998276,1656394.0
+192,Thermiques,Particulier,2021,Bretagne,11009.132090921294,1984209.0
+193,Thermiques,Particulier,2021,Centre-Val de Loire,10618.5231436327,1505729.0
+194,Thermiques,Particulier,2021,Corse,8969.47270687543,185013.0
+195,Thermiques,Particulier,2021,Grand Est,10971.010651148648,3139809.0
+196,Thermiques,Particulier,2021,Guadeloupe,11808.00229743776,176206.0
+197,Thermiques,Particulier,2021,Guyane,11954.631704436097,51303.0
+198,Thermiques,Particulier,2021,Hauts-de-France,10960.09815600758,3129067.0
+199,Thermiques,Particulier,2021,Inconnue,12529.61422916775,1830.0
+200,Thermiques,Particulier,2021,La Réunion,11223.136181881779,367713.0
+201,Thermiques,Particulier,2021,Martinique,10811.282547195235,176047.0
+202,Thermiques,Particulier,2021,Mayotte,12675.549264456,17432.0
+203,Thermiques,Particulier,2021,Normandie,10868.227638414952,1885873.0
+204,Thermiques,Particulier,2021,Nouvelle-Aquitaine,10597.262036727143,3647333.0
+205,Thermiques,Particulier,2021,Occitanie,10597.845377741734,3455031.0
+206,Thermiques,Particulier,2021,Pays de la Loire,10844.195470479417,2173155.0
+207,Thermiques,Particulier,2021,Provence-Alpes-Côte d'Azur,9780.894805625452,2803664.0
+208,Thermiques,Particulier,2021,Île-de-France,9808.34130916552,4541513.0
+209,Thermiques,Particulier,2022,Auvergne-Rhône-Alpes,11278.833209434499,4499475.0
+210,Thermiques,Particulier,2022,Bourgogne-Franche-Comté,11613.154197293125,1660941.0
+211,Thermiques,Particulier,2022,Bretagne,11829.918307475693,2001150.0
+212,Thermiques,Particulier,2022,Centre-Val de Loire,11467.349352178226,1506395.0
+213,Thermiques,Particulier,2022,Corse,9706.061123454683,185634.0
+214,Thermiques,Particulier,2022,Grand Est,11823.750776817227,3145313.0
+215,Thermiques,Particulier,2022,Guadeloupe,12418.551560109916,176691.0
+216,Thermiques,Particulier,2022,Guyane,12700.325247409764,51252.0
+217,Thermiques,Particulier,2022,Hauts-de-France,11806.223937448758,3145384.0
+218,Thermiques,Particulier,2022,Inconnue,13913.328176788456,1861.0
+219,Thermiques,Particulier,2022,La Réunion,11865.930307088021,373305.0
+220,Thermiques,Particulier,2022,Martinique,11441.544261347408,174696.0
+221,Thermiques,Particulier,2022,Mayotte,13232.802791507693,18483.0
+222,Thermiques,Particulier,2022,Normandie,11717.462078732293,1893671.0
+223,Thermiques,Particulier,2022,Nouvelle-Aquitaine,11426.736822981497,3665011.0
+224,Thermiques,Particulier,2022,Occitanie,11418.871024913073,3472946.0
+225,Thermiques,Particulier,2022,Pays de la Loire,11671.424548810088,2183520.0
+226,Thermiques,Particulier,2022,Provence-Alpes-Côte d'Azur,10563.274300748335,2801122.0
+227,Thermiques,Particulier,2022,Île-de-France,10555.243661067798,4490575.0
+228,Thermiques,Particulier,2023,Auvergne-Rhône-Alpes,11066.402355219197,4472607.401999999
+229,Thermiques,Particulier,2023,Bourgogne-Franche-Comté,11317.821198977552,1651609.688
+230,Thermiques,Particulier,2023,Bretagne,11516.261586358707,1998223.6130000001
+231,Thermiques,Particulier,2023,Centre-Val de Loire,11177.953035813189,1496598.955
+232,Thermiques,Particulier,2023,Corse,9714.205305818257,185964.622
+233,Thermiques,Particulier,2023,Grand Est,11490.196034922667,3120882.802
+234,Thermiques,Particulier,2023,Guadeloupe,11997.428136075941,175154.33700000003
+235,Thermiques,Particulier,2023,Guyane,12235.547148108117,51217.803
+236,Thermiques,Particulier,2023,Hauts-de-France,11478.831298061044,3132361.63
+237,Thermiques,Particulier,2023,Inconnue,12746.852188359017,1721.4189999999999
+238,Thermiques,Particulier,2023,La Réunion,11557.478149121554,377077.67299999995
+239,Thermiques,Particulier,2023,Martinique,11244.91483092094,172537.67599999998
+240,Thermiques,Particulier,2023,Mayotte,12833.575638569271,19955.839
+241,Thermiques,Particulier,2023,Normandie,11405.952722884984,1885100.438
+242,Thermiques,Particulier,2023,Nouvelle-Aquitaine,11159.526837068952,3649301.017999999
+243,Thermiques,Particulier,2023,Occitanie,11160.635901599118,3463109.9799999995
+244,Thermiques,Particulier,2023,Pays de la Loire,11376.368850651083,2177473.772
+245,Thermiques,Particulier,2023,Provence-Alpes-Côte d'Azur,10396.61865026458,2782901.1789999995
+246,Thermiques,Particulier,2023,Île-de-France,10292.36373489269,4406204.701
+247,Thermiques,Professionnel,2011,Auvergne-Rhône-Alpes,20365.212253312926,239594.0
+248,Thermiques,Professionnel,2011,Bourgogne-Franche-Comté,19520.351555071098,78096.0
+249,Thermiques,Professionnel,2011,Bretagne,20552.968338481034,86413.0
+250,Thermiques,Professionnel,2011,Centre-Val de Loire,19753.504865950334,70996.0
+251,Thermiques,Professionnel,2011,Corse,15652.685495488951,14219.0
+252,Thermiques,Professionnel,2011,Grand Est,20525.91971909931,154049.0
+253,Thermiques,Professionnel,2011,Guadeloupe,18860.274185926017,16448.0
+254,Thermiques,Professionnel,2011,Guyane,18723.88089264096,7318.0
+255,Thermiques,Professionnel,2011,Hauts-de-France,19911.49801913485,236577.0
+256,Thermiques,Professionnel,2011,Inconnue,6834.481529551599,3963.0
+257,Thermiques,Professionnel,2011,La Réunion,19186.979335548447,22163.0
+258,Thermiques,Professionnel,2011,Martinique,16242.2274908133,15845.0
+259,Thermiques,Professionnel,2011,Mayotte,16394.048910314792,1277.0
+260,Thermiques,Professionnel,2011,Normandie,19866.13387809338,126106.0
+261,Thermiques,Professionnel,2011,Nouvelle-Aquitaine,19049.52190799446,162236.0
+262,Thermiques,Professionnel,2011,Occitanie,19213.130744524795,154799.0
+263,Thermiques,Professionnel,2011,Pays de la Loire,20201.340416115603,103236.0
+264,Thermiques,Professionnel,2011,Provence-Alpes-Côte d'Azur,18103.22344254607,149945.0
+265,Thermiques,Professionnel,2011,Île-de-France,19711.003065893965,534151.0
+266,Thermiques,Professionnel,2012,Auvergne-Rhône-Alpes,20408.101062690694,245430.0
+267,Thermiques,Professionnel,2012,Bourgogne-Franche-Comté,19618.722113547712,78314.0
+268,Thermiques,Professionnel,2012,Bretagne,20578.940605541113,87302.0
+269,Thermiques,Professionnel,2012,Centre-Val de Loire,19859.37558631666,69004.0
+270,Thermiques,Professionnel,2012,Corse,15390.942042796141,13513.0
+271,Thermiques,Professionnel,2012,Grand Est,20601.352425871934,154010.0
+272,Thermiques,Professionnel,2012,Guadeloupe,18579.59795882109,17165.0
+273,Thermiques,Professionnel,2012,Guyane,18252.339241426656,7949.0
+274,Thermiques,Professionnel,2012,Hauts-de-France,20017.674871664854,234971.0
+275,Thermiques,Professionnel,2012,Inconnue,8124.582064745887,2824.0
+276,Thermiques,Professionnel,2012,La Réunion,19138.95120677308,22865.0
+277,Thermiques,Professionnel,2012,Martinique,16091.808735222283,16463.0
+278,Thermiques,Professionnel,2012,Mayotte,15458.112270769705,1679.0
+279,Thermiques,Professionnel,2012,Normandie,19904.12812590625,125977.0
+280,Thermiques,Professionnel,2012,Nouvelle-Aquitaine,19168.08739524762,162054.0
+281,Thermiques,Professionnel,2012,Occitanie,19265.390099377713,154793.0
+282,Thermiques,Professionnel,2012,Pays de la Loire,20342.63147998733,104749.0
+283,Thermiques,Professionnel,2012,Provence-Alpes-Côte d'Azur,18034.1772232502,148977.0
+284,Thermiques,Professionnel,2012,Île-de-France,19731.121914120373,549292.0
+285,Thermiques,Professionnel,2013,Auvergne-Rhône-Alpes,20368.649893962433,249428.0
+286,Thermiques,Professionnel,2013,Bourgogne-Franche-Comté,19658.859395378586,78406.0
+287,Thermiques,Professionnel,2013,Bretagne,20476.30697241901,87938.0
+288,Thermiques,Professionnel,2013,Centre-Val de Loire,19931.408986623588,67944.0
+289,Thermiques,Professionnel,2013,Corse,15899.565482908569,14575.0
+290,Thermiques,Professionnel,2013,Grand Est,20630.043595321164,154085.0
+291,Thermiques,Professionnel,2013,Guadeloupe,18110.214233062612,17844.0
+292,Thermiques,Professionnel,2013,Guyane,17875.967322670036,8292.0
+293,Thermiques,Professionnel,2013,Hauts-de-France,20210.629992467642,224793.0
+294,Thermiques,Professionnel,2013,Inconnue,8187.829157354373,2272.0
+295,Thermiques,Professionnel,2013,La Réunion,18917.7600654811,23523.0
+296,Thermiques,Professionnel,2013,Martinique,15934.5827630927,16564.0
+297,Thermiques,Professionnel,2013,Mayotte,14959.845077528158,2041.0
+298,Thermiques,Professionnel,2013,Normandie,20193.79889370186,122961.0
+299,Thermiques,Professionnel,2013,Nouvelle-Aquitaine,19202.841981254198,164669.0
+300,Thermiques,Professionnel,2013,Occitanie,19205.17359843386,155163.0
+301,Thermiques,Professionnel,2013,Pays de la Loire,20425.720980441634,102354.0
+302,Thermiques,Professionnel,2013,Provence-Alpes-Côte d'Azur,17950.090902503893,150475.0
+303,Thermiques,Professionnel,2013,Île-de-France,19668.521107478133,563628.0
+304,Thermiques,Professionnel,2014,Auvergne-Rhône-Alpes,20359.462358193763,256698.0
+305,Thermiques,Professionnel,2014,Bourgogne-Franche-Comté,19807.318063621038,79723.0
+306,Thermiques,Professionnel,2014,Bretagne,20541.60641882884,90057.0
+307,Thermiques,Professionnel,2014,Centre-Val de Loire,19992.397163098347,69299.0
+308,Thermiques,Professionnel,2014,Corse,15916.806850316305,14951.0
+309,Thermiques,Professionnel,2014,Grand Est,20714.017347054756,155736.0
+310,Thermiques,Professionnel,2014,Guadeloupe,17790.324574046816,18640.0
+311,Thermiques,Professionnel,2014,Guyane,17635.145723459053,8538.0
+312,Thermiques,Professionnel,2014,Hauts-de-France,20361.441629064895,222727.0
+313,Thermiques,Professionnel,2014,Inconnue,7014.8513489777615,1901.0
+314,Thermiques,Professionnel,2014,La Réunion,18806.278854561235,24036.0
+315,Thermiques,Professionnel,2014,Martinique,15789.992704791037,16910.0
+316,Thermiques,Professionnel,2014,Mayotte,14928.432415786992,2335.0
+317,Thermiques,Professionnel,2014,Normandie,20120.03014910853,120769.0
+318,Thermiques,Professionnel,2014,Nouvelle-Aquitaine,19285.297319889305,168041.0
+319,Thermiques,Professionnel,2014,Occitanie,19272.076066206664,157802.0
+320,Thermiques,Professionnel,2014,Pays de la Loire,20388.51718467714,106662.0
+321,Thermiques,Professionnel,2014,Provence-Alpes-Côte d'Azur,17995.481040384784,155045.0
+322,Thermiques,Professionnel,2014,Île-de-France,19739.84789913358,574252.0
+323,Thermiques,Professionnel,2015,Auvergne-Rhône-Alpes,20288.793753088234,262695.0
+324,Thermiques,Professionnel,2015,Bourgogne-Franche-Comté,19835.208903847757,79756.0
+325,Thermiques,Professionnel,2015,Bretagne,20417.176543626767,91587.0
+326,Thermiques,Professionnel,2015,Centre-Val de Loire,19898.870237532905,70757.0
+327,Thermiques,Professionnel,2015,Corse,15740.525597573804,15497.0
+328,Thermiques,Professionnel,2015,Grand Est,20645.787203502063,157493.0
+329,Thermiques,Professionnel,2015,Guadeloupe,17572.08470851461,19392.0
+330,Thermiques,Professionnel,2015,Guyane,17525.066876875353,8455.0
+331,Thermiques,Professionnel,2015,Hauts-de-France,20156.57279715697,230588.0
+332,Thermiques,Professionnel,2015,Inconnue,6424.886787668853,1657.0
+333,Thermiques,Professionnel,2015,La Réunion,18782.22596794944,24919.0
+334,Thermiques,Professionnel,2015,Martinique,15720.36396025741,17420.0
+335,Thermiques,Professionnel,2015,Mayotte,14832.980114884389,2581.0
+336,Thermiques,Professionnel,2015,Normandie,19929.36705745196,126058.0
+337,Thermiques,Professionnel,2015,Nouvelle-Aquitaine,19294.91651757642,171442.0
+338,Thermiques,Professionnel,2015,Occitanie,19235.009841402578,160475.0
+339,Thermiques,Professionnel,2015,Pays de la Loire,20309.840226249304,106814.0
+340,Thermiques,Professionnel,2015,Provence-Alpes-Côte d'Azur,17931.76566419817,157307.0
+341,Thermiques,Professionnel,2015,Île-de-France,19843.177329400427,588036.0
+342,Thermiques,Professionnel,2016,Auvergne-Rhône-Alpes,20308.619421381936,270974.0
+343,Thermiques,Professionnel,2016,Bourgogne-Franche-Comté,19867.538991031775,81860.0
+344,Thermiques,Professionnel,2016,Bretagne,20367.573956543405,93750.0
+345,Thermiques,Professionnel,2016,Centre-Val de Loire,19939.374103019567,73508.0
+346,Thermiques,Professionnel,2016,Corse,15716.81380267229,17530.0
+347,Thermiques,Professionnel,2016,Grand Est,20657.28296228881,162481.0
+348,Thermiques,Professionnel,2016,Guadeloupe,17561.05979593118,20608.0
+349,Thermiques,Professionnel,2016,Guyane,17479.73401410411,8712.0
+350,Thermiques,Professionnel,2016,Hauts-de-France,20218.964782130388,243918.0
+351,Thermiques,Professionnel,2016,Inconnue,5946.697500432091,1491.0
+352,Thermiques,Professionnel,2016,La Réunion,18754.736438580174,26434.0
+353,Thermiques,Professionnel,2016,Martinique,15636.750221845334,18326.0
+354,Thermiques,Professionnel,2016,Mayotte,14589.56889575651,2793.0
+355,Thermiques,Professionnel,2016,Normandie,20003.93666996177,129203.0
+356,Thermiques,Professionnel,2016,Nouvelle-Aquitaine,19299.198128812048,178326.0
+357,Thermiques,Professionnel,2016,Occitanie,19226.497306551686,166322.0
+358,Thermiques,Professionnel,2016,Pays de la Loire,20411.72884203264,109548.0
+359,Thermiques,Professionnel,2016,Provence-Alpes-Côte d'Azur,17886.98473911423,162991.0
+360,Thermiques,Professionnel,2016,Île-de-France,20044.910356894456,614646.0
+361,Thermiques,Professionnel,2017,Auvergne-Rhône-Alpes,20190.230197561657,283633.0
+362,Thermiques,Professionnel,2017,Bourgogne-Franche-Comté,19755.53325292151,83586.0
+363,Thermiques,Professionnel,2017,Bretagne,20185.014728732498,97410.0
+364,Thermiques,Professionnel,2017,Centre-Val de Loire,19809.133750847945,75560.0
+365,Thermiques,Professionnel,2017,Corse,15466.190726440635,20420.0
+366,Thermiques,Professionnel,2017,Grand Est,20470.80212996136,169167.0
+367,Thermiques,Professionnel,2017,Guadeloupe,17509.900897066076,22224.0
+368,Thermiques,Professionnel,2017,Guyane,17622.147018956188,8895.0
+369,Thermiques,Professionnel,2017,Hauts-de-France,20102.217624140216,259421.0
+370,Thermiques,Professionnel,2017,Inconnue,5588.2311536163525,1184.0
+371,Thermiques,Professionnel,2017,La Réunion,18632.635160101232,27862.0
+372,Thermiques,Professionnel,2017,Martinique,15493.554621810817,19304.0
+373,Thermiques,Professionnel,2017,Mayotte,14610.095265016276,2962.0
+374,Thermiques,Professionnel,2017,Normandie,19898.680982896123,136320.0
+375,Thermiques,Professionnel,2017,Nouvelle-Aquitaine,19200.967973899034,187070.0
+376,Thermiques,Professionnel,2017,Occitanie,19069.46559920911,175382.0
+377,Thermiques,Professionnel,2017,Pays de la Loire,20251.88486356657,113970.0
+378,Thermiques,Professionnel,2017,Provence-Alpes-Côte d'Azur,17750.752013804748,172249.0
+379,Thermiques,Professionnel,2017,Île-de-France,20076.611908445666,642141.0
+380,Thermiques,Professionnel,2018,Auvergne-Rhône-Alpes,20158.4438001451,301048.0
+381,Thermiques,Professionnel,2018,Bourgogne-Franche-Comté,19687.436540930248,85699.0
+382,Thermiques,Professionnel,2018,Bretagne,20131.656116247945,101790.0
+383,Thermiques,Professionnel,2018,Centre-Val de Loire,19738.48980779551,77378.0
+384,Thermiques,Professionnel,2018,Corse,15117.025317769561,20531.0
+385,Thermiques,Professionnel,2018,Grand Est,20353.809096528123,176832.0
+386,Thermiques,Professionnel,2018,Guadeloupe,17422.555637536836,24090.0
+387,Thermiques,Professionnel,2018,Guyane,17666.50903951086,9169.0
+388,Thermiques,Professionnel,2018,Hauts-de-France,20206.347807996965,275701.0
+389,Thermiques,Professionnel,2018,Inconnue,5649.426008014473,1040.0
+390,Thermiques,Professionnel,2018,La Réunion,18485.622457518228,29875.0
+391,Thermiques,Professionnel,2018,Martinique,15479.376075761713,20134.0
+392,Thermiques,Professionnel,2018,Mayotte,14547.7492642662,3241.0
+393,Thermiques,Professionnel,2018,Normandie,19837.658577690185,147192.0
+394,Thermiques,Professionnel,2018,Nouvelle-Aquitaine,19149.939653004916,197712.0
+395,Thermiques,Professionnel,2018,Occitanie,19027.67809825333,186055.0
+396,Thermiques,Professionnel,2018,Pays de la Loire,20353.505091442414,118382.0
+397,Thermiques,Professionnel,2018,Provence-Alpes-Côte d'Azur,17778.46631339182,182327.0
+398,Thermiques,Professionnel,2018,Île-de-France,20174.437236890804,666005.0
+399,Thermiques,Professionnel,2019,Auvergne-Rhône-Alpes,20073.32166583867,312561.0
+400,Thermiques,Professionnel,2019,Bourgogne-Franche-Comté,19578.29723749943,86579.0
+401,Thermiques,Professionnel,2019,Bretagne,20018.45934026271,104386.0
+402,Thermiques,Professionnel,2019,Centre-Val de Loire,19725.915239626152,78498.0
+403,Thermiques,Professionnel,2019,Corse,14767.352096398121,24443.0
+404,Thermiques,Professionnel,2019,Grand Est,20186.78483954964,180825.0
+405,Thermiques,Professionnel,2019,Guadeloupe,17337.677323388118,26284.0
+406,Thermiques,Professionnel,2019,Guyane,17818.128992563437,9755.0
+407,Thermiques,Professionnel,2019,Hauts-de-France,19849.813652096847,285648.0
+408,Thermiques,Professionnel,2019,Inconnue,5979.787549860229,930.0
+409,Thermiques,Professionnel,2019,La Réunion,18439.55334486014,31464.0
+410,Thermiques,Professionnel,2019,Martinique,15410.722028567367,21650.0
+411,Thermiques,Professionnel,2019,Mayotte,15022.899828495447,3499.0
+412,Thermiques,Professionnel,2019,Normandie,19561.317738698173,147729.0
+413,Thermiques,Professionnel,2019,Nouvelle-Aquitaine,18996.538851126705,204630.0
+414,Thermiques,Professionnel,2019,Occitanie,18947.861463081634,190130.0
+415,Thermiques,Professionnel,2019,Pays de la Loire,20319.279670112697,120773.0
+416,Thermiques,Professionnel,2019,Provence-Alpes-Côte d'Azur,17805.27558169014,186747.0
+417,Thermiques,Professionnel,2019,Île-de-France,20136.70046821092,677678.0
+418,Thermiques,Professionnel,2020,Auvergne-Rhône-Alpes,16349.72382912869,328320.0
+419,Thermiques,Professionnel,2020,Bourgogne-Franche-Comté,15853.836499809024,90121.0
+420,Thermiques,Professionnel,2020,Bretagne,16239.511206242178,109263.0
+421,Thermiques,Professionnel,2020,Centre-Val de Loire,15940.035364076468,81675.0
+422,Thermiques,Professionnel,2020,Corse,11781.917885758023,23947.0
+423,Thermiques,Professionnel,2020,Grand Est,16378.040751706565,189769.0
+424,Thermiques,Professionnel,2020,Guadeloupe,12877.998192209207,27773.0
+425,Thermiques,Professionnel,2020,Guyane,13910.860015798331,10309.0
+426,Thermiques,Professionnel,2020,Hauts-de-France,15553.213045444509,298247.0
+427,Thermiques,Professionnel,2020,Inconnue,5759.227950863784,776.0
+428,Thermiques,Professionnel,2020,La Réunion,14818.330328482289,32542.0
+429,Thermiques,Professionnel,2020,Martinique,11571.139607444931,23148.0
+430,Thermiques,Professionnel,2020,Mayotte,11968.400861800172,3976.0
+431,Thermiques,Professionnel,2020,Normandie,15130.768741669383,149062.0
+432,Thermiques,Professionnel,2020,Nouvelle-Aquitaine,15300.916778210969,215062.0
+433,Thermiques,Professionnel,2020,Occitanie,15269.19862159876,199273.0
+434,Thermiques,Professionnel,2020,Pays de la Loire,16475.330467572974,128684.0
+435,Thermiques,Professionnel,2020,Provence-Alpes-Côte d'Azur,14291.31656625316,196898.0
+436,Thermiques,Professionnel,2020,Île-de-France,16021.988605385435,705589.0
+437,Thermiques,Professionnel,2021,Auvergne-Rhône-Alpes,16986.089850941204,319124.0
+438,Thermiques,Professionnel,2021,Bourgogne-Franche-Comté,16781.367684739856,87049.0
+439,Thermiques,Professionnel,2021,Bretagne,17056.650089748706,107631.0
+440,Thermiques,Professionnel,2021,Centre-Val de Loire,16666.585739910606,79097.0
+441,Thermiques,Professionnel,2021,Corse,13699.662999364326,17203.0
+442,Thermiques,Professionnel,2021,Grand Est,17088.32260238048,181465.0
+443,Thermiques,Professionnel,2021,Guadeloupe,14085.895694989418,26379.0
+444,Thermiques,Professionnel,2021,Guyane,14487.582131983032,10189.0
+445,Thermiques,Professionnel,2021,Hauts-de-France,16724.40646438211,256340.0
+446,Thermiques,Professionnel,2021,Inconnue,5941.212182290947,524.0
+447,Thermiques,Professionnel,2021,La Réunion,15590.161580166845,31548.0
+448,Thermiques,Professionnel,2021,Martinique,12788.463294434268,21564.0
+449,Thermiques,Professionnel,2021,Mayotte,13082.16467328072,4301.0
+450,Thermiques,Professionnel,2021,Normandie,16517.557356846093,126388.0
+451,Thermiques,Professionnel,2021,Nouvelle-Aquitaine,16110.044372065006,210824.0
+452,Thermiques,Professionnel,2021,Occitanie,16200.28726828596,192886.0
+453,Thermiques,Professionnel,2021,Pays de la Loire,17070.782105055157,128300.0
+454,Thermiques,Professionnel,2021,Provence-Alpes-Côte d'Azur,15147.616360016387,191484.0
+455,Thermiques,Professionnel,2021,Île-de-France,16464.405155301723,692288.0
+456,Thermiques,Professionnel,2022,Auvergne-Rhône-Alpes,19117.581577869594,317559.0
+457,Thermiques,Professionnel,2022,Bourgogne-Franche-Comté,18679.404600716844,86408.0
+458,Thermiques,Professionnel,2022,Bretagne,18834.802349655278,108911.0
+459,Thermiques,Professionnel,2022,Centre-Val de Loire,18492.46381932708,77717.0
+460,Thermiques,Professionnel,2022,Corse,15664.376663459618,18082.0
+461,Thermiques,Professionnel,2022,Grand Est,19081.129414328374,178624.0
+462,Thermiques,Professionnel,2022,Guadeloupe,16182.713354478741,25926.0
+463,Thermiques,Professionnel,2022,Guyane,15896.321932737841,10792.0
+464,Thermiques,Professionnel,2022,Hauts-de-France,18851.845112303643,253709.0
+465,Thermiques,Professionnel,2022,Inconnue,5838.318025565976,461.0
+466,Thermiques,Professionnel,2022,La Réunion,17138.25890995205,33174.0
+467,Thermiques,Professionnel,2022,Martinique,14789.540357667434,21431.0
+468,Thermiques,Professionnel,2022,Mayotte,15365.472044009597,5066.0
+469,Thermiques,Professionnel,2022,Normandie,18384.846860896938,133167.0
+470,Thermiques,Professionnel,2022,Nouvelle-Aquitaine,18007.93584088289,208654.0
+471,Thermiques,Professionnel,2022,Occitanie,18152.74634004447,190669.0
+472,Thermiques,Professionnel,2022,Pays de la Loire,18894.95179709999,129692.0
+473,Thermiques,Professionnel,2022,Provence-Alpes-Côte d'Azur,17243.037683282866,188971.0
+474,Thermiques,Professionnel,2022,Île-de-France,18635.370108411247,674876.0
+475,Thermiques,Professionnel,2023,Auvergne-Rhône-Alpes,18446.404777821183,329505.166
+476,Thermiques,Professionnel,2023,Bourgogne-Franche-Comté,17960.21437378778,87720.617
+477,Thermiques,Professionnel,2023,Bretagne,18099.540535266435,110943.93500000001
+478,Thermiques,Professionnel,2023,Centre-Val de Loire,17755.648596788877,78455.574
+479,Thermiques,Professionnel,2023,Corse,15668.502446400249,21368.736
+480,Thermiques,Professionnel,2023,Grand Est,18265.391223132363,179033.98200000002
+481,Thermiques,Professionnel,2023,Guadeloupe,15461.122654713728,27248.714
+482,Thermiques,Professionnel,2023,Guyane,14967.113493646419,11588.838
+483,Thermiques,Professionnel,2023,Hauts-de-France,18009.81570917924,260704.729
+484,Thermiques,Professionnel,2023,Inconnue,6015.502782014742,468.0
+485,Thermiques,Professionnel,2023,La Réunion,16414.924317451474,35695.064
+486,Thermiques,Professionnel,2023,Martinique,14270.714027200554,22972.688000000002
+487,Thermiques,Professionnel,2023,Mayotte,15423.970861746157,5644.237
+488,Thermiques,Professionnel,2023,Normandie,17306.512205690295,145347.777
+489,Thermiques,Professionnel,2023,Nouvelle-Aquitaine,17425.49959914943,214492.636
+490,Thermiques,Professionnel,2023,Occitanie,17568.05489200703,194150.97199999998
+491,Thermiques,Professionnel,2023,Pays de la Loire,18094.009288474117,134977.421
+492,Thermiques,Professionnel,2023,Provence-Alpes-Côte d'Azur,16751.195513878083,191545.972
+493,Thermiques,Professionnel,2023,Île-de-France,17765.897035033606,675276.86
+494,VE,Particulier,2011,Auvergne-Rhône-Alpes,6281.127228770019,61.0
+495,VE,Particulier,2011,Bourgogne-Franche-Comté,8171.3389121338905,22.0
+496,VE,Particulier,2011,Bretagne,9154.892205638474,12.0
+497,VE,Particulier,2011,Centre-Val de Loire,6149.447809048806,29.0
+498,VE,Particulier,2011,Corse,17099.514563106797,2.0
+499,VE,Particulier,2011,Grand Est,9998.328857057595,30.0
+500,VE,Particulier,2011,Guadeloupe,,0.0
+501,VE,Particulier,2011,Guyane,,0.0
+502,VE,Particulier,2011,Hauts-de-France,13073.579482644263,34.0
+503,VE,Particulier,2011,Inconnue,,0.0
+504,VE,Particulier,2011,La Réunion,,0.0
+505,VE,Particulier,2011,Martinique,,0.0
+506,VE,Particulier,2011,Mayotte,,0.0
+507,VE,Particulier,2011,Normandie,12518.431831480399,17.0
+508,VE,Particulier,2011,Nouvelle-Aquitaine,9386.524012742682,174.0
+509,VE,Particulier,2011,Occitanie,7730.936409981217,33.0
+510,VE,Particulier,2011,Pays de la Loire,7167.518846279908,32.0
+511,VE,Particulier,2011,Provence-Alpes-Côte d'Azur,10386.650815217388,52.0
+512,VE,Particulier,2011,Île-de-France,8015.875805506737,125.0
+513,VE,Particulier,2012,Auvergne-Rhône-Alpes,7828.90590809628,76.0
+514,VE,Particulier,2012,Bourgogne-Franche-Comté,9564.368414205801,33.0
+515,VE,Particulier,2012,Bretagne,8906.495769039322,14.0
+516,VE,Particulier,2012,Centre-Val de Loire,8091.921858500527,32.0
+517,VE,Particulier,2012,Corse,12846.121593291406,3.0
+518,VE,Particulier,2012,Grand Est,10418.362030624565,49.0
+519,VE,Particulier,2012,Guadeloupe,,0.0
+520,VE,Particulier,2012,Guyane,,0.0
+521,VE,Particulier,2012,Hauts-de-France,11660.601704487115,57.0
+522,VE,Particulier,2012,Inconnue,,0.0
+523,VE,Particulier,2012,La Réunion,13612.0,1.0
+524,VE,Particulier,2012,Martinique,,0.0
+525,VE,Particulier,2012,Mayotte,,0.0
+526,VE,Particulier,2012,Normandie,8814.820865912008,20.0
+527,VE,Particulier,2012,Nouvelle-Aquitaine,10253.427137332345,170.0
+528,VE,Particulier,2012,Occitanie,9540.180060020008,54.0
+529,VE,Particulier,2012,Pays de la Loire,8132.761407435037,35.0
+530,VE,Particulier,2012,Provence-Alpes-Côte d'Azur,9623.448072962634,72.0
+531,VE,Particulier,2012,Île-de-France,8669.211249000591,158.0
+532,VE,Particulier,2013,Auvergne-Rhône-Alpes,9553.582240161453,288.0
+533,VE,Particulier,2013,Bourgogne-Franche-Comté,10327.794096402948,165.0
+534,VE,Particulier,2013,Bretagne,10320.1199815413,88.0
+535,VE,Particulier,2013,Centre-Val de Loire,9992.262186464744,116.0
+536,VE,Particulier,2013,Corse,12825.134926754046,9.0
+537,VE,Particulier,2013,Grand Est,10262.714417733217,379.0
+538,VE,Particulier,2013,Guadeloupe,,0.0
+539,VE,Particulier,2013,Guyane,,0.0
+540,VE,Particulier,2013,Hauts-de-France,11202.14974315671,203.0
+541,VE,Particulier,2013,Inconnue,,0.0
+542,VE,Particulier,2013,La Réunion,14882.5,2.0
+543,VE,Particulier,2013,Martinique,,0.0
+544,VE,Particulier,2013,Mayotte,,0.0
+545,VE,Particulier,2013,Normandie,9091.549868717872,206.0
+546,VE,Particulier,2013,Nouvelle-Aquitaine,10155.905599259602,402.0
+547,VE,Particulier,2013,Occitanie,10608.942671714438,253.0
+548,VE,Particulier,2013,Pays de la Loire,9933.388790298728,202.0
+549,VE,Particulier,2013,Provence-Alpes-Côte d'Azur,9745.83343807345,270.0
+550,VE,Particulier,2013,Île-de-France,9173.971661335465,573.0
+551,VE,Particulier,2014,Auvergne-Rhône-Alpes,10399.284434527408,761.0
+552,VE,Particulier,2014,Bourgogne-Franche-Comté,10874.56581207456,286.0
+553,VE,Particulier,2014,Bretagne,11010.071113452295,250.0
+554,VE,Particulier,2014,Centre-Val de Loire,10738.259863770721,270.0
+555,VE,Particulier,2014,Corse,12837.973605789699,20.0
+556,VE,Particulier,2014,Grand Est,10564.70467491148,1068.0
+557,VE,Particulier,2014,Guadeloupe,,0.0
+558,VE,Particulier,2014,Guyane,,0.0
+559,VE,Particulier,2014,Hauts-de-France,11550.284112577227,453.0
+560,VE,Particulier,2014,Inconnue,,0.0
+561,VE,Particulier,2014,La Réunion,11813.371616078754,3.0
+562,VE,Particulier,2014,Martinique,,0.0
+563,VE,Particulier,2014,Mayotte,,0.0
+564,VE,Particulier,2014,Normandie,9944.651446231526,388.0
+565,VE,Particulier,2014,Nouvelle-Aquitaine,10659.577840624002,762.0
+566,VE,Particulier,2014,Occitanie,11044.200160311462,594.0
+567,VE,Particulier,2014,Pays de la Loire,10857.786667234079,400.0
+568,VE,Particulier,2014,Provence-Alpes-Côte d'Azur,10172.48808363124,627.0
+569,VE,Particulier,2014,Île-de-France,9547.316887080366,1130.0
+570,VE,Particulier,2015,Auvergne-Rhône-Alpes,10405.673688910114,1359.0
+571,VE,Particulier,2015,Bourgogne-Franche-Comté,10358.494533221196,403.0
+572,VE,Particulier,2015,Bretagne,10825.723549082511,428.0
+573,VE,Particulier,2015,Centre-Val de Loire,10356.229403015543,494.0
+574,VE,Particulier,2015,Corse,11591.480582524271,33.0
+575,VE,Particulier,2015,Grand Est,10554.271846380047,1397.0
+576,VE,Particulier,2015,Guadeloupe,10035.642317380352,3.0
+577,VE,Particulier,2015,Guyane,,0.0
+578,VE,Particulier,2015,Hauts-de-France,10821.1061560388,778.0
+579,VE,Particulier,2015,Inconnue,,0.0
+580,VE,Particulier,2015,La Réunion,12619.411867670224,27.0
+581,VE,Particulier,2015,Martinique,12082.716049382716,1.0
+582,VE,Particulier,2015,Mayotte,,0.0
+583,VE,Particulier,2015,Normandie,10151.145602365114,625.0
+584,VE,Particulier,2015,Nouvelle-Aquitaine,10527.218273739743,1198.0
+585,VE,Particulier,2015,Occitanie,10667.124604333183,1018.0
+586,VE,Particulier,2015,Pays de la Loire,10466.459224960972,659.0
+587,VE,Particulier,2015,Provence-Alpes-Côte d'Azur,10239.002966584221,1051.0
+588,VE,Particulier,2015,Île-de-France,9668.630589216878,1852.0
+589,VE,Particulier,2016,Auvergne-Rhône-Alpes,10497.289959761478,2982.0
+590,VE,Particulier,2016,Bourgogne-Franche-Comté,10227.893787537889,873.0
+591,VE,Particulier,2016,Bretagne,10651.693929451025,904.0
+592,VE,Particulier,2016,Centre-Val de Loire,10350.258112932937,1044.0
+593,VE,Particulier,2016,Corse,10853.484762979682,60.0
+594,VE,Particulier,2016,Grand Est,10551.307804980119,2300.0
+595,VE,Particulier,2016,Guadeloupe,12838.58123569794,17.0
+596,VE,Particulier,2016,Guyane,,0.0
+597,VE,Particulier,2016,Hauts-de-France,10534.297852460695,1642.0
+598,VE,Particulier,2016,Inconnue,,0.0
+599,VE,Particulier,2016,La Réunion,12892.712637127797,108.0
+600,VE,Particulier,2016,Martinique,11825.221238938057,6.0
+601,VE,Particulier,2016,Mayotte,,0.0
+602,VE,Particulier,2016,Normandie,10478.857988670976,1363.0
+603,VE,Particulier,2016,Nouvelle-Aquitaine,10520.17379292621,2449.0
+604,VE,Particulier,2016,Occitanie,10677.124704502692,2101.0
+605,VE,Particulier,2016,Pays de la Loire,10669.766537782632,1462.0
+606,VE,Particulier,2016,Provence-Alpes-Côte d'Azur,10115.793781027354,1995.0
+607,VE,Particulier,2016,Île-de-France,9512.18318990923,3623.0
+608,VE,Particulier,2017,Auvergne-Rhône-Alpes,10827.661612476551,5061.0
+609,VE,Particulier,2017,Bourgogne-Franche-Comté,10589.771645734747,1345.0
+610,VE,Particulier,2017,Bretagne,11143.775529314105,1683.0
+611,VE,Particulier,2017,Centre-Val de Loire,10787.696606617414,1659.0
+612,VE,Particulier,2017,Corse,10056.866340668297,89.0
+613,VE,Particulier,2017,Grand Est,10937.419433527575,3255.0
+614,VE,Particulier,2017,Guadeloupe,12781.387591727818,39.0
+615,VE,Particulier,2017,Guyane,9022.713864306785,2.0
+616,VE,Particulier,2017,Hauts-de-France,10905.63796174745,2568.0
+617,VE,Particulier,2017,Inconnue,,0.0
+618,VE,Particulier,2017,La Réunion,13360.749465565663,193.0
+619,VE,Particulier,2017,Martinique,11936.585365853658,15.0
+620,VE,Particulier,2017,Mayotte,,0.0
+621,VE,Particulier,2017,Normandie,10999.590212426936,2210.0
+622,VE,Particulier,2017,Nouvelle-Aquitaine,10815.448908977272,3883.0
+623,VE,Particulier,2017,Occitanie,11056.701534827636,3456.0
+624,VE,Particulier,2017,Pays de la Loire,11041.560711617583,2452.0
+625,VE,Particulier,2017,Provence-Alpes-Côte d'Azur,10324.95714912106,3026.0
+626,VE,Particulier,2017,Île-de-France,9678.622037060986,5518.0
+627,VE,Particulier,2018,Auvergne-Rhône-Alpes,11349.147501932632,7339.0
+628,VE,Particulier,2018,Bourgogne-Franche-Comté,11446.032491111073,1770.0
+629,VE,Particulier,2018,Bretagne,11577.392533809376,2476.0
+630,VE,Particulier,2018,Centre-Val de Loire,11443.254789935852,2229.0
+631,VE,Particulier,2018,Corse,10005.294241721156,126.0
+632,VE,Particulier,2018,Grand Est,11406.98279926128,4321.0
+633,VE,Particulier,2018,Guadeloupe,13365.407303370785,61.0
+634,VE,Particulier,2018,Guyane,9655.818540433924,9.0
+635,VE,Particulier,2018,Hauts-de-France,11430.830884094106,3479.0
+636,VE,Particulier,2018,Inconnue,,0.0
+637,VE,Particulier,2018,La Réunion,14072.414842620541,345.0
+638,VE,Particulier,2018,Martinique,11926.555760936535,23.0
+639,VE,Particulier,2018,Mayotte,,0.0
+640,VE,Particulier,2018,Normandie,11637.192993334369,3009.0
+641,VE,Particulier,2018,Nouvelle-Aquitaine,11251.9760677723,5241.0
+642,VE,Particulier,2018,Occitanie,11540.245901939998,4942.0
+643,VE,Particulier,2018,Pays de la Loire,11569.897556255077,3364.0
+644,VE,Particulier,2018,Provence-Alpes-Côte d'Azur,10746.586509204957,4224.0
+645,VE,Particulier,2018,Île-de-France,9873.05627931214,7844.0
+646,VE,Particulier,2019,Auvergne-Rhône-Alpes,12121.792672364214,9382.0
+647,VE,Particulier,2019,Bourgogne-Franche-Comté,12310.278904280523,2201.0
+648,VE,Particulier,2019,Bretagne,12097.495812907928,3221.0
+649,VE,Particulier,2019,Centre-Val de Loire,12031.382353317058,2879.0
+650,VE,Particulier,2019,Corse,10760.54338812741,187.0
+651,VE,Particulier,2019,Grand Est,12248.3140592031,5456.0
+652,VE,Particulier,2019,Guadeloupe,13744.3083440781,94.0
+653,VE,Particulier,2019,Guyane,9677.837014470677,13.0
+654,VE,Particulier,2019,Hauts-de-France,12155.30786821012,4240.0
+655,VE,Particulier,2019,Inconnue,,0.0
+656,VE,Particulier,2019,La Réunion,14661.703438739927,523.0
+657,VE,Particulier,2019,Martinique,12058.81603172355,56.0
+658,VE,Particulier,2019,Mayotte,,0.0
+659,VE,Particulier,2019,Normandie,12318.317250030523,3793.0
+660,VE,Particulier,2019,Nouvelle-Aquitaine,11879.490185744422,6610.0
+661,VE,Particulier,2019,Occitanie,12050.909479434493,6515.0
+662,VE,Particulier,2019,Pays de la Loire,12166.514773567984,4216.0
+663,VE,Particulier,2019,Provence-Alpes-Côte d'Azur,11415.04439373139,5499.0
+664,VE,Particulier,2019,Île-de-France,10444.242606215283,9821.0
+665,VE,Particulier,2020,Auvergne-Rhône-Alpes,10180.70458929942,12405.0
+666,VE,Particulier,2020,Bourgogne-Franche-Comté,10256.506142519162,2875.0
+667,VE,Particulier,2020,Bretagne,10101.307111434411,4531.0
+668,VE,Particulier,2020,Centre-Val de Loire,9976.117617113485,3841.0
+669,VE,Particulier,2020,Corse,9390.895133256085,255.0
+670,VE,Particulier,2020,Grand Est,10407.654546858701,7216.0
+671,VE,Particulier,2020,Guadeloupe,11003.44541506027,155.0
+672,VE,Particulier,2020,Guyane,8700.71758072783,15.0
+673,VE,Particulier,2020,Hauts-de-France,10205.183618804014,5801.0
+674,VE,Particulier,2020,Inconnue,10366.489361702128,1.0
+675,VE,Particulier,2020,La Réunion,11648.238249549408,860.0
+676,VE,Particulier,2020,Martinique,10568.940727699532,102.0
+677,VE,Particulier,2020,Mayotte,,0.0
+678,VE,Particulier,2020,Normandie,10305.841771271822,5015.0
+679,VE,Particulier,2020,Nouvelle-Aquitaine,9975.23799905932,8558.0
+680,VE,Particulier,2020,Occitanie,10042.77719129654,9131.0
+681,VE,Particulier,2020,Pays de la Loire,10041.195417503111,5552.0
+682,VE,Particulier,2020,Provence-Alpes-Côte d'Azur,9774.53792880934,8524.0
+683,VE,Particulier,2020,Île-de-France,8835.329055576989,13610.0
+684,VE,Particulier,2021,Auvergne-Rhône-Alpes,11368.576457755786,21777.0
+685,VE,Particulier,2021,Bourgogne-Franche-Comté,11435.098085277841,5420.0
+686,VE,Particulier,2021,Bretagne,11239.744649453854,8218.0
+687,VE,Particulier,2021,Centre-Val de Loire,11139.884164190844,6135.0
+688,VE,Particulier,2021,Corse,10532.758200766559,567.0
+689,VE,Particulier,2021,Grand Est,11571.293674417648,13042.0
+690,VE,Particulier,2021,Guadeloupe,11592.46974883093,308.0
+691,VE,Particulier,2021,Guyane,10048.398410100537,27.0
+692,VE,Particulier,2021,Hauts-de-France,11384.029926170606,10310.0
+693,VE,Particulier,2021,Inconnue,11546.645702306083,13.0
+694,VE,Particulier,2021,La Réunion,11827.711463311747,1556.0
+695,VE,Particulier,2021,Martinique,11113.865440342699,208.0
+696,VE,Particulier,2021,Mayotte,,0.0
+697,VE,Particulier,2021,Normandie,11366.508159750774,8646.0
+698,VE,Particulier,2021,Nouvelle-Aquitaine,11122.465980101128,14894.0
+699,VE,Particulier,2021,Occitanie,11251.441730762639,16214.0
+700,VE,Particulier,2021,Pays de la Loire,11153.657382641675,9602.0
+701,VE,Particulier,2021,Provence-Alpes-Côte d'Azur,10841.104788142202,16337.0
+702,VE,Particulier,2021,Île-de-France,10072.198548938606,22444.0
+703,VE,Particulier,2022,Auvergne-Rhône-Alpes,12244.714822572365,37737.0
+704,VE,Particulier,2022,Bourgogne-Franche-Comté,12286.062092843616,9663.0
+705,VE,Particulier,2022,Bretagne,12071.378006398136,14333.0
+706,VE,Particulier,2022,Centre-Val de Loire,11942.9211530378,10326.0
+707,VE,Particulier,2022,Corse,11472.41725578406,1158.0
+708,VE,Particulier,2022,Grand Est,12425.429411615158,23938.0
+709,VE,Particulier,2022,Guadeloupe,12342.857706937626,593.0
+710,VE,Particulier,2022,Guyane,10868.241714361773,59.0
+711,VE,Particulier,2022,Hauts-de-France,12252.085091530014,19705.0
+712,VE,Particulier,2022,Inconnue,12445.518334087823,33.0
+713,VE,Particulier,2022,La Réunion,12282.983943494564,3009.0
+714,VE,Particulier,2022,Martinique,11998.848771115207,468.0
+715,VE,Particulier,2022,Mayotte,12218.552036199095,1.0
+716,VE,Particulier,2022,Normandie,12062.76149495128,14956.0
+717,VE,Particulier,2022,Nouvelle-Aquitaine,11971.658638062068,26880.0
+718,VE,Particulier,2022,Occitanie,12108.360160766955,28636.0
+719,VE,Particulier,2022,Pays de la Loire,12038.512916101556,16385.0
+720,VE,Particulier,2022,Provence-Alpes-Côte d'Azur,11470.410986033101,31308.0
+721,VE,Particulier,2022,Île-de-France,11026.55589032128,38308.0
+722,VE,Particulier,2023,Auvergne-Rhône-Alpes,12248.94313571563,57498.764
+723,VE,Particulier,2023,Bourgogne-Franche-Comté,12234.4554425758,15166.448
+724,VE,Particulier,2023,Bretagne,12098.845182244679,22954.519
+725,VE,Particulier,2023,Centre-Val de Loire,11921.65035771858,16014.893
+726,VE,Particulier,2023,Corse,11764.258285814334,2063.246
+727,VE,Particulier,2023,Grand Est,12475.210991030686,38749.104
+728,VE,Particulier,2023,Guadeloupe,12455.319745044477,1008.386
+729,VE,Particulier,2023,Guyane,11619.362606232296,112.094
+730,VE,Particulier,2023,Hauts-de-France,12237.372169300994,32720.748
+731,VE,Particulier,2023,Inconnue,12223.908712189821,56.0
+732,VE,Particulier,2023,La Réunion,12049.012433051124,4883.264999999999
+733,VE,Particulier,2023,Martinique,12232.427079387411,839.293
+734,VE,Particulier,2023,Mayotte,13875.737704918034,7.0
+735,VE,Particulier,2023,Normandie,11988.084978524692,23430.25
+736,VE,Particulier,2023,Nouvelle-Aquitaine,12016.887189220992,41723.626000000004
+737,VE,Particulier,2023,Occitanie,12124.268758287491,44488.013999999996
+738,VE,Particulier,2023,Pays de la Loire,12017.027141010816,25311.828
+739,VE,Particulier,2023,Provence-Alpes-Côte d'Azur,11554.833447424153,47649.729999999996
+740,VE,Particulier,2023,Île-de-France,11232.841911290878,55790.599
+741,VE,Professionnel,2011,Auvergne-Rhône-Alpes,4699.966868218337,81.0
+742,VE,Professionnel,2011,Bourgogne-Franche-Comté,5724.705497382199,19.0
+743,VE,Professionnel,2011,Bretagne,9573.297002724796,16.0
+744,VE,Professionnel,2011,Centre-Val de Loire,4413.903625110523,41.0
+745,VE,Professionnel,2011,Corse,,0.0
+746,VE,Professionnel,2011,Grand Est,6627.8001687130945,66.0
+747,VE,Professionnel,2011,Guadeloupe,,0.0
+748,VE,Professionnel,2011,Guyane,,0.0
+749,VE,Professionnel,2011,Hauts-de-France,7101.892263979614,65.0
+750,VE,Professionnel,2011,Inconnue,,0.0
+751,VE,Professionnel,2011,La Réunion,,0.0
+752,VE,Professionnel,2011,Martinique,,0.0
+753,VE,Professionnel,2011,Mayotte,,0.0
+754,VE,Professionnel,2011,Normandie,4510.760492268854,13.0
+755,VE,Professionnel,2011,Nouvelle-Aquitaine,4384.991613753445,272.0
+756,VE,Professionnel,2011,Occitanie,7697.23560740553,20.0
+757,VE,Professionnel,2011,Pays de la Loire,4049.8710865561698,42.0
+758,VE,Professionnel,2011,Provence-Alpes-Côte d'Azur,7927.34486266531,36.0
+759,VE,Professionnel,2011,Île-de-France,6152.190657719521,427.0
+760,VE,Professionnel,2012,Auvergne-Rhône-Alpes,6460.342163355409,223.0
+761,VE,Professionnel,2012,Bourgogne-Franche-Comté,6809.0586797066,62.0
+762,VE,Professionnel,2012,Bretagne,6848.894885633513,58.0
+763,VE,Professionnel,2012,Centre-Val de Loire,5609.325714285715,62.0
+764,VE,Professionnel,2012,Corse,5501.094527363183,9.0
+765,VE,Professionnel,2012,Grand Est,7378.481116922696,190.0
+766,VE,Professionnel,2012,Guadeloupe,58181.30081300813,2.0
+767,VE,Professionnel,2012,Guyane,2683.0,1.0
+768,VE,Professionnel,2012,Hauts-de-France,7928.9863576353255,510.0
+769,VE,Professionnel,2012,Inconnue,,0.0
+770,VE,Professionnel,2012,La Réunion,8670.1871657754,6.0
+771,VE,Professionnel,2012,Martinique,,0.0
+772,VE,Professionnel,2012,Mayotte,,0.0
+773,VE,Professionnel,2012,Normandie,6885.900328137818,75.0
+774,VE,Professionnel,2012,Nouvelle-Aquitaine,5439.014261200594,548.0
+775,VE,Professionnel,2012,Occitanie,7799.968852203706,88.0
+776,VE,Professionnel,2012,Pays de la Loire,6075.11737089202,89.0
+777,VE,Professionnel,2012,Provence-Alpes-Côte d'Azur,7636.106750392464,198.0
+778,VE,Professionnel,2012,Île-de-France,10558.679066980134,1354.0
+779,VE,Professionnel,2013,Auvergne-Rhône-Alpes,7501.70333160113,292.0
+780,VE,Professionnel,2013,Bourgogne-Franche-Comté,6961.493765887908,100.0
+781,VE,Professionnel,2013,Bretagne,7631.540578380728,103.0
+782,VE,Professionnel,2013,Centre-Val de Loire,7847.123706987544,105.0
+783,VE,Professionnel,2013,Corse,5840.833333333334,10.0
+784,VE,Professionnel,2013,Grand Est,7919.459231983166,303.0
+785,VE,Professionnel,2013,Guadeloupe,54471.53846153846,1.0
+786,VE,Professionnel,2013,Guyane,2675.0,1.0
+787,VE,Professionnel,2013,Hauts-de-France,7269.5184018831305,502.0
+788,VE,Professionnel,2013,Inconnue,,0.0
+789,VE,Professionnel,2013,La Réunion,8438.54748603352,9.0
+790,VE,Professionnel,2013,Martinique,,0.0
+791,VE,Professionnel,2013,Mayotte,,0.0
+792,VE,Professionnel,2013,Normandie,7412.860595464596,118.0
+793,VE,Professionnel,2013,Nouvelle-Aquitaine,6152.944931834096,823.0
+794,VE,Professionnel,2013,Occitanie,8443.904295453041,168.0
+795,VE,Professionnel,2013,Pays de la Loire,7629.94978628045,155.0
+796,VE,Professionnel,2013,Provence-Alpes-Côte d'Azur,8089.973550848997,391.0
+797,VE,Professionnel,2013,Île-de-France,9876.63148444703,3231.0
+798,VE,Professionnel,2014,Auvergne-Rhône-Alpes,7599.516627178879,672.0
+799,VE,Professionnel,2014,Bourgogne-Franche-Comté,6997.09783117491,200.0
+800,VE,Professionnel,2014,Bretagne,7864.148504434091,269.0
+801,VE,Professionnel,2014,Centre-Val de Loire,7516.248938440432,329.0
+802,VE,Professionnel,2014,Corse,8666.543301258327,20.0
+803,VE,Professionnel,2014,Grand Est,8043.31052574643,619.0
+804,VE,Professionnel,2014,Guadeloupe,38264.45497630332,2.0
+805,VE,Professionnel,2014,Guyane,2675.0,1.0
+806,VE,Professionnel,2014,Hauts-de-France,7176.925740623545,687.0
+807,VE,Professionnel,2014,Inconnue,,0.0
+808,VE,Professionnel,2014,La Réunion,11159.905181171687,17.0
+809,VE,Professionnel,2014,Martinique,,0.0
+810,VE,Professionnel,2014,Mayotte,,0.0
+811,VE,Professionnel,2014,Normandie,7263.903502397907,256.0
+812,VE,Professionnel,2014,Nouvelle-Aquitaine,6621.526384496096,1012.0
+813,VE,Professionnel,2014,Occitanie,8189.881934032984,385.0
+814,VE,Professionnel,2014,Pays de la Loire,7657.611060224409,254.0
+815,VE,Professionnel,2014,Provence-Alpes-Côte d'Azur,8530.481818181817,575.0
+816,VE,Professionnel,2014,Île-de-France,9664.664131464418,4840.0
+817,VE,Professionnel,2015,Auvergne-Rhône-Alpes,8667.677284387977,1086.0
+818,VE,Professionnel,2015,Bourgogne-Franche-Comté,7712.623309723116,327.0
+819,VE,Professionnel,2015,Bretagne,8654.388592264617,403.0
+820,VE,Professionnel,2015,Centre-Val de Loire,8422.983733640389,474.0
+821,VE,Professionnel,2015,Corse,9147.364419665484,34.0
+822,VE,Professionnel,2015,Grand Est,8651.14005503714,852.0
+823,VE,Professionnel,2015,Guadeloupe,18240.080160320642,4.0
+824,VE,Professionnel,2015,Guyane,6556.521739130435,1.0
+825,VE,Professionnel,2015,Hauts-de-France,8080.507524343465,966.0
+826,VE,Professionnel,2015,Inconnue,,0.0
+827,VE,Professionnel,2015,La Réunion,9464.580783353733,46.0
+828,VE,Professionnel,2015,Martinique,,0.0
+829,VE,Professionnel,2015,Mayotte,,0.0
+830,VE,Professionnel,2015,Normandie,7888.0581121168325,443.0
+831,VE,Professionnel,2015,Nouvelle-Aquitaine,7414.008034588099,1200.0
+832,VE,Professionnel,2015,Occitanie,9001.071037681766,590.0
+833,VE,Professionnel,2015,Pays de la Loire,8681.864974638293,427.0
+834,VE,Professionnel,2015,Provence-Alpes-Côte d'Azur,9008.982113764774,930.0
+835,VE,Professionnel,2015,Île-de-France,9807.302875005968,6839.0
+836,VE,Professionnel,2016,Auvergne-Rhône-Alpes,9170.833631760759,1411.0
+837,VE,Professionnel,2016,Bourgogne-Franche-Comté,8248.424671385237,394.0
+838,VE,Professionnel,2016,Bretagne,8867.243301933857,539.0
+839,VE,Professionnel,2016,Centre-Val de Loire,8830.335496035048,741.0
+840,VE,Professionnel,2016,Corse,7845.737874097007,40.0
+841,VE,Professionnel,2016,Grand Est,9047.32468254098,1006.0
+842,VE,Professionnel,2016,Guadeloupe,9043.446808510638,20.0
+843,VE,Professionnel,2016,Guyane,6919.2019950124695,3.0
+844,VE,Professionnel,2016,Hauts-de-France,8690.878337366363,980.0
+845,VE,Professionnel,2016,Inconnue,,0.0
+846,VE,Professionnel,2016,La Réunion,10319.288058571066,62.0
+847,VE,Professionnel,2016,Martinique,9827.308337996641,12.0
+848,VE,Professionnel,2016,Mayotte,,0.0
+849,VE,Professionnel,2016,Normandie,8043.937114383912,558.0
+850,VE,Professionnel,2016,Nouvelle-Aquitaine,8330.999650268128,1418.0
+851,VE,Professionnel,2016,Occitanie,9133.321345579285,803.0
+852,VE,Professionnel,2016,Pays de la Loire,8928.77701586145,582.0
+853,VE,Professionnel,2016,Provence-Alpes-Côte d'Azur,9441.169074798436,1226.0
+854,VE,Professionnel,2016,Île-de-France,9450.029615483423,9188.0
+855,VE,Professionnel,2017,Auvergne-Rhône-Alpes,10211.824250605618,2074.0
+856,VE,Professionnel,2017,Bourgogne-Franche-Comté,9226.665384558488,559.0
+857,VE,Professionnel,2017,Bretagne,9524.691552372144,803.0
+858,VE,Professionnel,2017,Centre-Val de Loire,9398.723886146981,985.0
+859,VE,Professionnel,2017,Corse,10431.644671491415,49.0
+860,VE,Professionnel,2017,Grand Est,9711.242740856991,1341.0
+861,VE,Professionnel,2017,Guadeloupe,10140.155728587319,26.0
+862,VE,Professionnel,2017,Guyane,7499.122807017544,5.0
+863,VE,Professionnel,2017,Hauts-de-France,9435.294389526656,1412.0
+864,VE,Professionnel,2017,Inconnue,,0.0
+865,VE,Professionnel,2017,La Réunion,12786.274362818589,86.0
+866,VE,Professionnel,2017,Martinique,9926.63043478261,25.0
+867,VE,Professionnel,2017,Mayotte,,0.0
+868,VE,Professionnel,2017,Normandie,9135.651341722256,866.0
+869,VE,Professionnel,2017,Nouvelle-Aquitaine,9284.72307119582,1846.0
+870,VE,Professionnel,2017,Occitanie,10044.739266064058,1238.0
+871,VE,Professionnel,2017,Pays de la Loire,10160.822687400654,940.0
+872,VE,Professionnel,2017,Provence-Alpes-Côte d'Azur,10040.45154041634,1701.0
+873,VE,Professionnel,2017,Île-de-France,9550.726189598025,10948.0
+874,VE,Professionnel,2018,Auvergne-Rhône-Alpes,10760.228283702785,2981.0
+875,VE,Professionnel,2018,Bourgogne-Franche-Comté,10002.397820787217,712.0
+876,VE,Professionnel,2018,Bretagne,10043.283168682485,1081.0
+877,VE,Professionnel,2018,Centre-Val de Loire,10005.356171629946,1174.0
+878,VE,Professionnel,2018,Corse,11121.966476862619,94.0
+879,VE,Professionnel,2018,Grand Est,10390.785799943242,1753.0
+880,VE,Professionnel,2018,Guadeloupe,10473.052164261931,59.0
+881,VE,Professionnel,2018,Guyane,9514.9978513107,11.0
+882,VE,Professionnel,2018,Hauts-de-France,9957.175576350139,1734.0
+883,VE,Professionnel,2018,Inconnue,,0.0
+884,VE,Professionnel,2018,La Réunion,13760.587434351291,187.0
+885,VE,Professionnel,2018,Martinique,11595.641535402967,48.0
+886,VE,Professionnel,2018,Mayotte,,0.0
+887,VE,Professionnel,2018,Normandie,10100.835702272694,1135.0
+888,VE,Professionnel,2018,Nouvelle-Aquitaine,10199.042099420072,2286.0
+889,VE,Professionnel,2018,Occitanie,10608.550645492474,1790.0
+890,VE,Professionnel,2018,Pays de la Loire,10938.951444010652,1265.0
+891,VE,Professionnel,2018,Provence-Alpes-Côte d'Azur,10654.729314701324,2280.0
+892,VE,Professionnel,2018,Île-de-France,9246.89931372118,13172.0
+893,VE,Professionnel,2019,Auvergne-Rhône-Alpes,11837.614788631818,4375.0
+894,VE,Professionnel,2019,Bourgogne-Franche-Comté,11129.259016703883,962.0
+895,VE,Professionnel,2019,Bretagne,10878.151683404858,1466.0
+896,VE,Professionnel,2019,Centre-Val de Loire,10931.200423056584,1317.0
+897,VE,Professionnel,2019,Corse,11127.952797386999,145.0
+898,VE,Professionnel,2019,Grand Est,11688.518075025291,2362.0
+899,VE,Professionnel,2019,Guadeloupe,11673.87323028965,126.0
+900,VE,Professionnel,2019,Guyane,10451.279373368146,32.0
+901,VE,Professionnel,2019,Hauts-de-France,11315.400658048136,2463.0
+902,VE,Professionnel,2019,Inconnue,,0.0
+903,VE,Professionnel,2019,La Réunion,14739.14685414341,327.0
+904,VE,Professionnel,2019,Martinique,12236.381553015372,83.0
+905,VE,Professionnel,2019,Mayotte,,0.0
+906,VE,Professionnel,2019,Normandie,10947.490929199794,1456.0
+907,VE,Professionnel,2019,Nouvelle-Aquitaine,11467.187132336037,3034.0
+908,VE,Professionnel,2019,Occitanie,11706.960901966013,2677.0
+909,VE,Professionnel,2019,Pays de la Loire,11520.09635173059,1732.0
+910,VE,Professionnel,2019,Provence-Alpes-Côte d'Azur,11987.209552917206,3273.0
+911,VE,Professionnel,2019,Île-de-France,10152.90002553544,16070.0
+912,VE,Professionnel,2020,Auvergne-Rhône-Alpes,9027.765264231004,6277.0
+913,VE,Professionnel,2020,Bourgogne-Franche-Comté,8907.54555292758,1321.0
+914,VE,Professionnel,2020,Bretagne,8547.336728025079,1976.0
+915,VE,Professionnel,2020,Centre-Val de Loire,8471.529485363755,1674.0
+916,VE,Professionnel,2020,Corse,9083.366165234002,232.0
+917,VE,Professionnel,2020,Grand Est,9216.5591874014,3241.0
+918,VE,Professionnel,2020,Guadeloupe,8468.619648737651,179.0
+919,VE,Professionnel,2020,Guyane,7680.691734094877,51.0
+920,VE,Professionnel,2020,Hauts-de-France,9021.893873668683,3425.0
+921,VE,Professionnel,2020,Inconnue,,0.0
+922,VE,Professionnel,2020,La Réunion,10518.165006650877,497.0
+923,VE,Professionnel,2020,Martinique,8622.537142857143,130.0
+924,VE,Professionnel,2020,Mayotte,8810.0,5.0
+925,VE,Professionnel,2020,Normandie,8604.197472122587,1917.0
+926,VE,Professionnel,2020,Nouvelle-Aquitaine,8831.680846220228,3930.0
+927,VE,Professionnel,2020,Occitanie,9128.981962929787,3663.0
+928,VE,Professionnel,2020,Pays de la Loire,8529.822461008693,2358.0
+929,VE,Professionnel,2020,Provence-Alpes-Côte d'Azur,9206.50800989577,4569.0
+930,VE,Professionnel,2020,Île-de-France,7791.378872037255,17647.0
+931,VE,Professionnel,2021,Auvergne-Rhône-Alpes,11054.92311851811,11146.0
+932,VE,Professionnel,2021,Bourgogne-Franche-Comté,10955.077520784154,2664.0
+933,VE,Professionnel,2021,Bretagne,10551.710187953418,3698.0
+934,VE,Professionnel,2021,Centre-Val de Loire,10499.513806766914,2798.0
+935,VE,Professionnel,2021,Corse,10570.86873347212,1039.0
+936,VE,Professionnel,2021,Grand Est,11323.187528628654,5901.0
+937,VE,Professionnel,2021,Guadeloupe,10461.91598466798,291.0
+938,VE,Professionnel,2021,Guyane,9815.390121689336,88.0
+939,VE,Professionnel,2021,Hauts-de-France,11196.621324871816,7150.0
+940,VE,Professionnel,2021,Inconnue,14126.857142857143,3.0
+941,VE,Professionnel,2021,La Réunion,12199.376490162784,838.0
+942,VE,Professionnel,2021,Martinique,10968.153791427048,261.0
+943,VE,Professionnel,2021,Mayotte,11337.110481586402,5.0
+944,VE,Professionnel,2021,Normandie,10568.738892647074,4002.0
+945,VE,Professionnel,2021,Nouvelle-Aquitaine,10799.562428665586,7084.0
+946,VE,Professionnel,2021,Occitanie,11116.391203021618,6542.0
+947,VE,Professionnel,2021,Pays de la Loire,10600.356492250778,4263.0
+948,VE,Professionnel,2021,Provence-Alpes-Côte d'Azur,11189.095458531192,7717.0
+949,VE,Professionnel,2021,Île-de-France,9982.293703775518,24238.0
+950,VE,Professionnel,2022,Auvergne-Rhône-Alpes,14567.317473883351,15940.0
+951,VE,Professionnel,2022,Bourgogne-Franche-Comté,14205.951423990033,3800.0
+952,VE,Professionnel,2022,Bretagne,13950.293889956134,5085.0
+953,VE,Professionnel,2022,Centre-Val de Loire,13711.771196640115,3647.0
+954,VE,Professionnel,2022,Corse,13499.938823546967,1962.0
+955,VE,Professionnel,2022,Grand Est,14670.264389761682,8373.0
+956,VE,Professionnel,2022,Guadeloupe,14091.534650010468,551.0
+957,VE,Professionnel,2022,Guyane,12277.544313881697,184.0
+958,VE,Professionnel,2022,Hauts-de-France,14629.415620422642,10381.0
+959,VE,Professionnel,2022,Inconnue,18343.041606886658,5.0
+960,VE,Professionnel,2022,La Réunion,14618.012014740774,1659.0
+961,VE,Professionnel,2022,Martinique,14145.638555785157,470.0
+962,VE,Professionnel,2022,Mayotte,14583.635992654561,18.0
+963,VE,Professionnel,2022,Normandie,13596.256775493011,5632.0
+964,VE,Professionnel,2022,Nouvelle-Aquitaine,14143.321711325032,9970.0
+965,VE,Professionnel,2022,Occitanie,14671.512210550407,9228.0
+966,VE,Professionnel,2022,Pays de la Loire,13966.347579998977,5748.0
+967,VE,Professionnel,2022,Provence-Alpes-Côte d'Azur,14663.877693655082,11378.0
+968,VE,Professionnel,2022,Île-de-France,13480.617581246559,32174.0
+969,VE,Professionnel,2023,Auvergne-Rhône-Alpes,15299.532434488367,20914.304
+970,VE,Professionnel,2023,Bourgogne-Franche-Comté,14778.034236103964,4853.879
+971,VE,Professionnel,2023,Bretagne,14794.2156740253,6536.859
+972,VE,Professionnel,2023,Centre-Val de Loire,14380.167254857835,4436.198
+973,VE,Professionnel,2023,Corse,13980.139224618817,2585.143
+974,VE,Professionnel,2023,Grand Est,15322.189028064196,10570.34
+975,VE,Professionnel,2023,Guadeloupe,14692.11600070961,806.091
+976,VE,Professionnel,2023,Guyane,12761.709176545723,210.773
+977,VE,Professionnel,2023,Hauts-de-France,15408.830796877635,12727.078
+978,VE,Professionnel,2023,Inconnue,18506.90058479532,9.0
+979,VE,Professionnel,2023,La Réunion,14862.281714027044,2599.209
+980,VE,Professionnel,2023,Martinique,14592.65612841032,697.27
+981,VE,Professionnel,2023,Mayotte,15066.145887221935,78.0
+982,VE,Professionnel,2023,Normandie,14423.031226374907,7905.48
+983,VE,Professionnel,2023,Nouvelle-Aquitaine,14825.532043380948,12493.904
+984,VE,Professionnel,2023,Occitanie,15372.90350761051,12286.798
+985,VE,Professionnel,2023,Pays de la Loire,14692.096785861708,7533.488
+986,VE,Professionnel,2023,Provence-Alpes-Côte d'Azur,15345.719907137913,15105.449
+987,VE,Professionnel,2023,Île-de-France,14480.338933300378,43557.772
+988,VHR,Particulier,2011,Auvergne-Rhône-Alpes,16923.306314555826,1157.0
+989,VHR,Particulier,2011,Bourgogne-Franche-Comté,16604.431123006336,607.0
+990,VHR,Particulier,2011,Bretagne,17035.47202155014,400.0
+991,VHR,Particulier,2011,Centre-Val de Loire,16738.615178150427,719.0
+992,VHR,Particulier,2011,Corse,12979.948491537894,25.0
+993,VHR,Particulier,2011,Grand Est,16440.584288130998,647.0
+994,VHR,Particulier,2011,Guadeloupe,12084.0,1.0
+995,VHR,Particulier,2011,Guyane,,0.0
+996,VHR,Particulier,2011,Hauts-de-France,16968.1811586317,922.0
+997,VHR,Particulier,2011,Inconnue,,0.0
+998,VHR,Particulier,2011,La Réunion,14832.996632996632,5.0
+999,VHR,Particulier,2011,Martinique,15048.972602739726,5.0
+1000,VHR,Particulier,2011,Mayotte,,0.0
+1001,VHR,Particulier,2011,Normandie,17968.837296699166,420.0
+1002,VHR,Particulier,2011,Nouvelle-Aquitaine,16156.437372924142,1264.0
+1003,VHR,Particulier,2011,Occitanie,16873.880386078494,707.0
+1004,VHR,Particulier,2011,Pays de la Loire,17021.671201693076,949.0
+1005,VHR,Particulier,2011,Provence-Alpes-Côte d'Azur,15586.599287192268,1147.0
+1006,VHR,Particulier,2011,Île-de-France,16640.33836195745,3450.0
+1007,VHR,Particulier,2012,Auvergne-Rhône-Alpes,16294.203919137362,1986.0
+1008,VHR,Particulier,2012,Bourgogne-Franche-Comté,16419.969071136387,958.0
+1009,VHR,Particulier,2012,Bretagne,16179.20642828856,746.0
+1010,VHR,Particulier,2012,Centre-Val de Loire,16443.231212591443,1078.0
+1011,VHR,Particulier,2012,Corse,13457.28894173603,38.0
+1012,VHR,Particulier,2012,Grand Est,16227.380229425971,1095.0
+1013,VHR,Particulier,2012,Guadeloupe,14072.664359861592,2.0
+1014,VHR,Particulier,2012,Guyane,,0.0
+1015,VHR,Particulier,2012,Hauts-de-France,16475.142162412518,1458.0
+1016,VHR,Particulier,2012,Inconnue,20964.631664631663,25.0
+1017,VHR,Particulier,2012,La Réunion,13431.808035714284,9.0
+1018,VHR,Particulier,2012,Martinique,15483.580387685291,10.0
+1019,VHR,Particulier,2012,Mayotte,,0.0
+1020,VHR,Particulier,2012,Normandie,17698.794505186434,621.0
+1021,VHR,Particulier,2012,Nouvelle-Aquitaine,15856.514828666936,1906.0
+1022,VHR,Particulier,2012,Occitanie,16464.556122942682,936.0
+1023,VHR,Particulier,2012,Pays de la Loire,16406.756121854505,1509.0
+1024,VHR,Particulier,2012,Provence-Alpes-Côte d'Azur,15118.052859679383,1546.0
+1025,VHR,Particulier,2012,Île-de-France,16505.20663071171,5651.0
+1026,VHR,Particulier,2013,Auvergne-Rhône-Alpes,16044.027962996011,2528.0
+1027,VHR,Particulier,2013,Bourgogne-Franche-Comté,16231.272085317914,1129.0
+1028,VHR,Particulier,2013,Bretagne,15954.403976870402,901.0
+1029,VHR,Particulier,2013,Centre-Val de Loire,16062.02591639483,1253.0
+1030,VHR,Particulier,2013,Corse,12207.062675397568,44.0
+1031,VHR,Particulier,2013,Grand Est,16041.217491632811,1411.0
+1032,VHR,Particulier,2013,Guadeloupe,13988.75,4.0
+1033,VHR,Particulier,2013,Guyane,18830.0,1.0
+1034,VHR,Particulier,2013,Hauts-de-France,16130.205090834894,1776.0
+1035,VHR,Particulier,2013,Inconnue,20000.285795941698,36.0
+1036,VHR,Particulier,2013,La Réunion,18017.550410754295,13.0
+1037,VHR,Particulier,2013,Martinique,14270.114942528739,10.0
+1038,VHR,Particulier,2013,Mayotte,,0.0
+1039,VHR,Particulier,2013,Normandie,17117.95169231393,759.0
+1040,VHR,Particulier,2013,Nouvelle-Aquitaine,15854.629744990116,2312.0
+1041,VHR,Particulier,2013,Occitanie,16351.752626783476,1174.0
+1042,VHR,Particulier,2013,Pays de la Loire,16175.364479991831,1757.0
+1043,VHR,Particulier,2013,Provence-Alpes-Côte d'Azur,14888.10220903444,1690.0
+1044,VHR,Particulier,2013,Île-de-France,16067.862865757337,6663.0
+1045,VHR,Particulier,2014,Auvergne-Rhône-Alpes,15771.396016555751,2694.0
+1046,VHR,Particulier,2014,Bourgogne-Franche-Comté,16221.69367457394,1164.0
+1047,VHR,Particulier,2014,Bretagne,16030.241236383365,1007.0
+1048,VHR,Particulier,2014,Centre-Val de Loire,16060.29099240395,1334.0
+1049,VHR,Particulier,2014,Corse,13646.838918235091,57.0
+1050,VHR,Particulier,2014,Grand Est,15941.816752426543,1493.0
+1051,VHR,Particulier,2014,Guadeloupe,15175.333333333334,6.0
+1052,VHR,Particulier,2014,Guyane,15054.0,2.0
+1053,VHR,Particulier,2014,Hauts-de-France,16131.355336306766,1832.0
+1054,VHR,Particulier,2014,Inconnue,19295.85884047533,30.0
+1055,VHR,Particulier,2014,La Réunion,15213.290771909462,15.0
+1056,VHR,Particulier,2014,Martinique,14795.404255319148,11.0
+1057,VHR,Particulier,2014,Mayotte,,0.0
+1058,VHR,Particulier,2014,Normandie,16665.792643698325,849.0
+1059,VHR,Particulier,2014,Nouvelle-Aquitaine,15837.941546989276,2451.0
+1060,VHR,Particulier,2014,Occitanie,16226.59488989668,1314.0
+1061,VHR,Particulier,2014,Pays de la Loire,16064.04767438047,1865.0
+1062,VHR,Particulier,2014,Provence-Alpes-Côte d'Azur,14434.310034754422,1777.0
+1063,VHR,Particulier,2014,Île-de-France,15545.529453457308,6810.0
+1064,VHR,Particulier,2015,Auvergne-Rhône-Alpes,15709.756715586072,2911.0
+1065,VHR,Particulier,2015,Bourgogne-Franche-Comté,16040.5861934351,1181.0
+1066,VHR,Particulier,2015,Bretagne,15759.25138084615,1095.0
+1067,VHR,Particulier,2015,Centre-Val de Loire,15957.23622073898,1417.0
+1068,VHR,Particulier,2015,Corse,13619.339604905525,70.0
+1069,VHR,Particulier,2015,Grand Est,15891.988732361655,1653.0
+1070,VHR,Particulier,2015,Guadeloupe,14878.10426540284,9.0
+1071,VHR,Particulier,2015,Guyane,13810.928961748634,2.0
+1072,VHR,Particulier,2015,Hauts-de-France,16197.864371864327,1939.0
+1073,VHR,Particulier,2015,Inconnue,18809.032258064515,20.0
+1074,VHR,Particulier,2015,La Réunion,15878.487032066281,33.0
+1075,VHR,Particulier,2015,Martinique,16403.566433566433,15.0
+1076,VHR,Particulier,2015,Mayotte,,0.0
+1077,VHR,Particulier,2015,Normandie,16624.51824572541,953.0
+1078,VHR,Particulier,2015,Nouvelle-Aquitaine,15953.039334065716,2640.0
+1079,VHR,Particulier,2015,Occitanie,16521.378341904656,1475.0
+1080,VHR,Particulier,2015,Pays de la Loire,15835.732283808265,1988.0
+1081,VHR,Particulier,2015,Provence-Alpes-Côte d'Azur,14205.345751130902,1872.0
+1082,VHR,Particulier,2015,Île-de-France,15196.70992542688,7065.0
+1083,VHR,Particulier,2016,Auvergne-Rhône-Alpes,15454.180903247074,3378.0
+1084,VHR,Particulier,2016,Bourgogne-Franche-Comté,15956.777898266573,1258.0
+1085,VHR,Particulier,2016,Bretagne,15723.855116431676,1247.0
+1086,VHR,Particulier,2016,Centre-Val de Loire,16202.244415466175,1541.0
+1087,VHR,Particulier,2016,Corse,13869.947427876261,84.0
+1088,VHR,Particulier,2016,Grand Est,15859.010242333305,1893.0
+1089,VHR,Particulier,2016,Guadeloupe,16651.62059103908,19.0
+1090,VHR,Particulier,2016,Guyane,18575.0,3.0
+1091,VHR,Particulier,2016,Hauts-de-France,16067.408333379726,2112.0
+1092,VHR,Particulier,2016,Inconnue,16918.932874354563,12.0
+1093,VHR,Particulier,2016,La Réunion,14962.644689323086,93.0
+1094,VHR,Particulier,2016,Martinique,14761.808118081182,15.0
+1095,VHR,Particulier,2016,Mayotte,,0.0
+1096,VHR,Particulier,2016,Normandie,16560.65739710825,1134.0
+1097,VHR,Particulier,2016,Nouvelle-Aquitaine,15830.394628315686,2972.0
+1098,VHR,Particulier,2016,Occitanie,16352.094712720558,1798.0
+1099,VHR,Particulier,2016,Pays de la Loire,15459.194513380735,2220.0
+1100,VHR,Particulier,2016,Provence-Alpes-Côte d'Azur,14276.495680742846,2156.0
+1101,VHR,Particulier,2016,Île-de-France,14840.038263176242,7699.0
+1102,VHR,Particulier,2017,Auvergne-Rhône-Alpes,15387.286274592685,3785.0
+1103,VHR,Particulier,2017,Bourgogne-Franche-Comté,15667.82735807814,1317.0
+1104,VHR,Particulier,2017,Bretagne,15717.643197101683,1420.0
+1105,VHR,Particulier,2017,Centre-Val de Loire,15924.900429060526,1652.0
+1106,VHR,Particulier,2017,Corse,13487.497179963691,93.0
+1107,VHR,Particulier,2017,Grand Est,15647.976942179703,2057.0
+1108,VHR,Particulier,2017,Guadeloupe,16485.35117056856,29.0
+1109,VHR,Particulier,2017,Guyane,18054.362416107382,5.0
+1110,VHR,Particulier,2017,Hauts-de-France,15998.35150066005,2270.0
+1111,VHR,Particulier,2017,Inconnue,13313.43537414966,6.0
+1112,VHR,Particulier,2017,La Réunion,15093.480294702373,143.0
+1113,VHR,Particulier,2017,Martinique,13203.2414910859,23.0
+1114,VHR,Particulier,2017,Mayotte,19450.0,1.0
+1115,VHR,Particulier,2017,Normandie,16583.955831024276,1222.0
+1116,VHR,Particulier,2017,Nouvelle-Aquitaine,15647.092163648995,3215.0
+1117,VHR,Particulier,2017,Occitanie,16027.588161629064,2052.0
+1118,VHR,Particulier,2017,Pays de la Loire,15336.5484362607,2331.0
+1119,VHR,Particulier,2017,Provence-Alpes-Côte d'Azur,14181.229344754578,2379.0
+1120,VHR,Particulier,2017,Île-de-France,14588.860167457517,8430.0
+1121,VHR,Particulier,2018,Auvergne-Rhône-Alpes,15482.1478914867,4509.0
+1122,VHR,Particulier,2018,Bourgogne-Franche-Comté,15449.112463595198,1435.0
+1123,VHR,Particulier,2018,Bretagne,15465.318652462722,1639.0
+1124,VHR,Particulier,2018,Centre-Val de Loire,15540.18004811785,1778.0
+1125,VHR,Particulier,2018,Corse,13445.711719576626,117.0
+1126,VHR,Particulier,2018,Grand Est,15722.579233860903,2523.0
+1127,VHR,Particulier,2018,Guadeloupe,15647.020189734858,36.0
+1128,VHR,Particulier,2018,Guyane,12842.70462633452,8.0
+1129,VHR,Particulier,2018,Hauts-de-France,15843.567883332207,2593.0
+1130,VHR,Particulier,2018,Inconnue,13312.317327766179,5.0
+1131,VHR,Particulier,2018,La Réunion,14920.88167053364,226.0
+1132,VHR,Particulier,2018,Martinique,12529.830508474577,32.0
+1133,VHR,Particulier,2018,Mayotte,16116.0,1.0
+1134,VHR,Particulier,2018,Normandie,16349.03719871472,1409.0
+1135,VHR,Particulier,2018,Nouvelle-Aquitaine,15578.613913161927,3692.0
+1136,VHR,Particulier,2018,Occitanie,15962.342278429382,2483.0
+1137,VHR,Particulier,2018,Pays de la Loire,15130.538104943713,2555.0
+1138,VHR,Particulier,2018,Provence-Alpes-Côte d'Azur,14122.93408595072,2806.0
+1139,VHR,Particulier,2018,Île-de-France,14219.270238401567,9572.0
+1140,VHR,Particulier,2019,Auvergne-Rhône-Alpes,15543.518223283167,5458.0
+1141,VHR,Particulier,2019,Bourgogne-Franche-Comté,15390.034782496943,1657.0
+1142,VHR,Particulier,2019,Bretagne,15358.922477985829,1940.0
+1143,VHR,Particulier,2019,Centre-Val de Loire,15498.47905604359,1981.0
+1144,VHR,Particulier,2019,Corse,13493.218193729475,164.0
+1145,VHR,Particulier,2019,Grand Est,15642.016650405918,3013.0
+1146,VHR,Particulier,2019,Guadeloupe,16234.55198199757,55.0
+1147,VHR,Particulier,2019,Guyane,13717.89667896679,9.0
+1148,VHR,Particulier,2019,Hauts-de-France,15912.607246305875,3002.0
+1149,VHR,Particulier,2019,Inconnue,12744.776119402986,4.0
+1150,VHR,Particulier,2019,La Réunion,14921.608004479514,319.0
+1151,VHR,Particulier,2019,Martinique,14254.932257867773,40.0
+1152,VHR,Particulier,2019,Mayotte,15918.0,1.0
+1153,VHR,Particulier,2019,Normandie,16111.955298626364,1670.0
+1154,VHR,Particulier,2019,Nouvelle-Aquitaine,15587.937082140976,4390.0
+1155,VHR,Particulier,2019,Occitanie,15850.52162957987,3175.0
+1156,VHR,Particulier,2019,Pays de la Loire,15070.668557300993,2793.0
+1157,VHR,Particulier,2019,Provence-Alpes-Côte d'Azur,14190.41012807797,3439.0
+1158,VHR,Particulier,2019,Île-de-France,14264.200781671698,10745.0
+1159,VHR,Particulier,2020,Auvergne-Rhône-Alpes,12555.590228285819,6415.0
+1160,VHR,Particulier,2020,Bourgogne-Franche-Comté,12608.526123755579,1853.0
+1161,VHR,Particulier,2020,Bretagne,12421.759357119798,2273.0
+1162,VHR,Particulier,2020,Centre-Val de Loire,12281.104523642396,2212.0
+1163,VHR,Particulier,2020,Corse,11241.793240784147,223.0
+1164,VHR,Particulier,2020,Grand Est,12827.851404104462,3607.0
+1165,VHR,Particulier,2020,Guadeloupe,12977.079885054962,72.0
+1166,VHR,Particulier,2020,Guyane,12554.850746268656,12.0
+1167,VHR,Particulier,2020,Hauts-de-France,12935.736992241315,3539.0
+1168,VHR,Particulier,2020,Inconnue,11799.325463743677,4.0
+1169,VHR,Particulier,2020,La Réunion,12018.857777679406,361.0
+1170,VHR,Particulier,2020,Martinique,11421.810804437568,47.0
+1171,VHR,Particulier,2020,Mayotte,12389.795918367347,2.0
+1172,VHR,Particulier,2020,Normandie,12654.890420242682,1964.0
+1173,VHR,Particulier,2020,Nouvelle-Aquitaine,12543.023760508417,5100.0
+1174,VHR,Particulier,2020,Occitanie,12800.759173589404,3923.0
+1175,VHR,Particulier,2020,Pays de la Loire,12070.126495324028,3095.0
+1176,VHR,Particulier,2020,Provence-Alpes-Côte d'Azur,11574.699043595076,4197.0
+1177,VHR,Particulier,2020,Île-de-France,11517.741268571323,12292.0
+1178,VHR,Particulier,2021,Auvergne-Rhône-Alpes,14585.105651648455,10469.0
+1179,VHR,Particulier,2021,Bourgogne-Franche-Comté,14579.44544491169,3005.0
+1180,VHR,Particulier,2021,Bretagne,14269.987328623327,3613.0
+1181,VHR,Particulier,2021,Centre-Val de Loire,14112.876867358375,3178.0
+1182,VHR,Particulier,2021,Corse,13810.625793308334,376.0
+1183,VHR,Particulier,2021,Grand Est,15017.98548577656,6392.0
+1184,VHR,Particulier,2021,Guadeloupe,15075.358457974586,115.0
+1185,VHR,Particulier,2021,Guyane,15902.756857723745,26.0
+1186,VHR,Particulier,2021,Hauts-de-France,14737.72283465212,5649.0
+1187,VHR,Particulier,2021,Inconnue,16828.73376623377,12.0
+1188,VHR,Particulier,2021,La Réunion,13884.221934459034,515.0
+1189,VHR,Particulier,2021,Martinique,14075.336186856492,94.0
+1190,VHR,Particulier,2021,Mayotte,15471.127946127943,9.0
+1191,VHR,Particulier,2021,Normandie,14651.625916006049,3219.0
+1192,VHR,Particulier,2021,Nouvelle-Aquitaine,14525.201301298452,7843.0
+1193,VHR,Particulier,2021,Occitanie,14838.889029839042,6682.0
+1194,VHR,Particulier,2021,Pays de la Loire,14076.260591516988,4747.0
+1195,VHR,Particulier,2021,Provence-Alpes-Côte d'Azur,14026.986050654836,6783.0
+1196,VHR,Particulier,2021,Île-de-France,13402.117604914765,17974.0
+1197,VHR,Particulier,2022,Auvergne-Rhône-Alpes,16578.51518756203,18607.0
+1198,VHR,Particulier,2022,Bourgogne-Franche-Comté,16820.664908156326,5494.0
+1199,VHR,Particulier,2022,Bretagne,16383.472278810781,6405.0
+1200,VHR,Particulier,2022,Centre-Val de Loire,16180.127510427152,5251.0
+1201,VHR,Particulier,2022,Corse,16082.142317978363,711.0
+1202,VHR,Particulier,2022,Grand Est,16988.130181011955,12787.0
+1203,VHR,Particulier,2022,Guadeloupe,17041.92932605415,255.0
+1204,VHR,Particulier,2022,Guyane,16710.00595533499,80.0
+1205,VHR,Particulier,2022,Hauts-de-France,16638.621472546325,10741.0
+1206,VHR,Particulier,2022,Inconnue,19025.412339645696,59.0
+1207,VHR,Particulier,2022,La Réunion,15511.555192159754,923.0
+1208,VHR,Particulier,2022,Martinique,16409.47241091815,236.0
+1209,VHR,Particulier,2022,Mayotte,16254.297269969666,17.0
+1210,VHR,Particulier,2022,Normandie,16683.102744724423,6263.0
+1211,VHR,Particulier,2022,Nouvelle-Aquitaine,16581.478133065342,14000.0
+1212,VHR,Particulier,2022,Occitanie,16789.318705319576,12595.0
+1213,VHR,Particulier,2022,Pays de la Loire,16192.830555193823,7776.0
+1214,VHR,Particulier,2022,Provence-Alpes-Côte d'Azur,16140.290733280153,12347.0
+1215,VHR,Particulier,2022,Île-de-France,15361.511502786736,28894.0
+1216,VHR,Particulier,2023,Auvergne-Rhône-Alpes,17027.99031814824,26411.006999999998
+1217,VHR,Particulier,2023,Bourgogne-Franche-Comté,17180.125352426625,7919.344
+1218,VHR,Particulier,2023,Bretagne,16829.183692356026,9124.541
+1219,VHR,Particulier,2023,Centre-Val de Loire,16612.38673892662,7379.18
+1220,VHR,Particulier,2023,Corse,16802.33142550681,1018.139
+1221,VHR,Particulier,2023,Grand Est,17243.318595228495,18571.983
+1222,VHR,Particulier,2023,Guadeloupe,17543.32305595819,457.189
+1223,VHR,Particulier,2023,Guyane,16964.414181128403,165.0
+1224,VHR,Particulier,2023,Hauts-de-France,17050.16490654674,15687.771
+1225,VHR,Particulier,2023,Inconnue,19752.494849637053,55.0
+1226,VHR,Particulier,2023,La Réunion,16230.933111651428,1393.162
+1227,VHR,Particulier,2023,Martinique,17051.264535667295,381.068
+1228,VHR,Particulier,2023,Mayotte,17609.367194004997,23.0
+1229,VHR,Particulier,2023,Normandie,17065.442047357537,9329.564
+1230,VHR,Particulier,2023,Nouvelle-Aquitaine,17035.354798433465,20064.33
+1231,VHR,Particulier,2023,Occitanie,17138.836049911974,18525.708
+1232,VHR,Particulier,2023,Pays de la Loire,16654.04670015131,10903.127
+1233,VHR,Particulier,2023,Provence-Alpes-Côte d'Azur,16664.0161728572,17908.702
+1234,VHR,Particulier,2023,Île-de-France,15844.893644084572,38730.979999999996
+1235,VHR,Professionnel,2011,Auvergne-Rhône-Alpes,21450.687172774866,447.0
+1236,VHR,Professionnel,2011,Bourgogne-Franche-Comté,22673.754401408452,162.0
+1237,VHR,Professionnel,2011,Bretagne,21440.79057490504,132.0
+1238,VHR,Professionnel,2011,Centre-Val de Loire,21497.089912566884,166.0
+1239,VHR,Professionnel,2011,Corse,13495.84552369807,10.0
+1240,VHR,Professionnel,2011,Grand Est,20839.15919243689,229.0
+1241,VHR,Professionnel,2011,Guadeloupe,18727.5,2.0
+1242,VHR,Professionnel,2011,Guyane,,0.0
+1243,VHR,Professionnel,2011,Hauts-de-France,22019.82041820418,361.0
+1244,VHR,Professionnel,2011,Inconnue,,0.0
+1245,VHR,Professionnel,2011,La Réunion,24485.0,1.0
+1246,VHR,Professionnel,2011,Martinique,,0.0
+1247,VHR,Professionnel,2011,Mayotte,,0.0
+1248,VHR,Professionnel,2011,Normandie,23570.071535518222,103.0
+1249,VHR,Professionnel,2011,Nouvelle-Aquitaine,20574.548801919165,278.0
+1250,VHR,Professionnel,2011,Occitanie,22281.96771808773,127.0
+1251,VHR,Professionnel,2011,Pays de la Loire,22552.03631922689,311.0
+1252,VHR,Professionnel,2011,Provence-Alpes-Côte d'Azur,19696.086812264573,430.0
+1253,VHR,Professionnel,2011,Île-de-France,18747.351102009896,2411.0
+1254,VHR,Professionnel,2012,Auvergne-Rhône-Alpes,20979.475568660488,615.0
+1255,VHR,Professionnel,2012,Bourgogne-Franche-Comté,22644.799390421478,314.0
+1256,VHR,Professionnel,2012,Bretagne,22418.388547539114,145.0
+1257,VHR,Professionnel,2012,Centre-Val de Loire,20187.898718777327,245.0
+1258,VHR,Professionnel,2012,Corse,13342.572322126663,20.0
+1259,VHR,Professionnel,2012,Grand Est,20174.39895263033,298.0
+1260,VHR,Professionnel,2012,Guadeloupe,18779.0,2.0
+1261,VHR,Professionnel,2012,Guyane,,0.0
+1262,VHR,Professionnel,2012,Hauts-de-France,20745.378087397086,339.0
+1263,VHR,Professionnel,2012,Inconnue,26715.6,5.0
+1264,VHR,Professionnel,2012,La Réunion,24859.0,1.0
+1265,VHR,Professionnel,2012,Martinique,15812.219696969696,3.0
+1266,VHR,Professionnel,2012,Mayotte,,0.0
+1267,VHR,Professionnel,2012,Normandie,23457.63905186576,114.0
+1268,VHR,Professionnel,2012,Nouvelle-Aquitaine,20818.763780316694,354.0
+1269,VHR,Professionnel,2012,Occitanie,21890.475246543436,171.0
+1270,VHR,Professionnel,2012,Pays de la Loire,22865.636388546376,331.0
+1271,VHR,Professionnel,2012,Provence-Alpes-Côte d'Azur,20282.51241534989,431.0
+1272,VHR,Professionnel,2012,Île-de-France,18444.28856483058,3354.0
+1273,VHR,Professionnel,2013,Auvergne-Rhône-Alpes,20972.179101299847,547.0
+1274,VHR,Professionnel,2013,Bourgogne-Franche-Comté,22557.6268427744,176.0
+1275,VHR,Professionnel,2013,Bretagne,22884.022607729057,134.0
+1276,VHR,Professionnel,2013,Centre-Val de Loire,22247.304473216307,190.0
+1277,VHR,Professionnel,2013,Corse,13897.147302904563,20.0
+1278,VHR,Professionnel,2013,Grand Est,20509.51593072638,297.0
+1279,VHR,Professionnel,2013,Guadeloupe,18727.5,2.0
+1280,VHR,Professionnel,2013,Guyane,18241.11111111111,1.0
+1281,VHR,Professionnel,2013,Hauts-de-France,21286.179057638878,326.0
+1282,VHR,Professionnel,2013,Inconnue,26953.0193236715,10.0
+1283,VHR,Professionnel,2013,La Réunion,24809.19540229885,1.0
+1284,VHR,Professionnel,2013,Martinique,15166.2,5.0
+1285,VHR,Professionnel,2013,Mayotte,,0.0
+1286,VHR,Professionnel,2013,Normandie,23357.154175249565,129.0
+1287,VHR,Professionnel,2013,Nouvelle-Aquitaine,21939.712019101622,307.0
+1288,VHR,Professionnel,2013,Occitanie,22055.73430957866,170.0
+1289,VHR,Professionnel,2013,Pays de la Loire,22812.03497912684,285.0
+1290,VHR,Professionnel,2013,Provence-Alpes-Côte d'Azur,19715.328508585208,354.0
+1291,VHR,Professionnel,2013,Île-de-France,18457.501603108984,3094.0
+1292,VHR,Professionnel,2014,Auvergne-Rhône-Alpes,20607.054167094124,436.0
+1293,VHR,Professionnel,2014,Bourgogne-Franche-Comté,21383.9529570961,113.0
+1294,VHR,Professionnel,2014,Bretagne,23707.689421062587,105.0
+1295,VHR,Professionnel,2014,Centre-Val de Loire,21159.523243694894,153.0
+1296,VHR,Professionnel,2014,Corse,12644.780728844964,15.0
+1297,VHR,Professionnel,2014,Grand Est,20354.492147569927,289.0
+1298,VHR,Professionnel,2014,Guadeloupe,15988.395904436858,2.0
+1299,VHR,Professionnel,2014,Guyane,17655.973451327434,4.0
+1300,VHR,Professionnel,2014,Hauts-de-France,20838.919211264318,262.0
+1301,VHR,Professionnel,2014,Inconnue,27209.5,2.0
+1302,VHR,Professionnel,2014,La Réunion,17021.45593869732,5.0
+1303,VHR,Professionnel,2014,Martinique,16890.37525773196,5.0
+1304,VHR,Professionnel,2014,Mayotte,,0.0
+1305,VHR,Professionnel,2014,Normandie,22226.63237449056,103.0
+1306,VHR,Professionnel,2014,Nouvelle-Aquitaine,21126.246413270055,254.0
+1307,VHR,Professionnel,2014,Occitanie,18783.508912444424,235.0
+1308,VHR,Professionnel,2014,Pays de la Loire,21574.101435126235,222.0
+1309,VHR,Professionnel,2014,Provence-Alpes-Côte d'Azur,19072.52677498475,294.0
+1310,VHR,Professionnel,2014,Île-de-France,17963.00848178903,2580.0
+1311,VHR,Professionnel,2015,Auvergne-Rhône-Alpes,19922.81033248981,481.0
+1312,VHR,Professionnel,2015,Bourgogne-Franche-Comté,19688.239480510645,102.0
+1313,VHR,Professionnel,2015,Bretagne,22102.469092317147,125.0
+1314,VHR,Professionnel,2015,Centre-Val de Loire,18736.566939984506,164.0
+1315,VHR,Professionnel,2015,Corse,14428.59025032938,14.0
+1316,VHR,Professionnel,2015,Grand Est,19713.28649317278,256.0
+1317,VHR,Professionnel,2015,Guadeloupe,19945.215759849907,4.0
+1318,VHR,Professionnel,2015,Guyane,18224.39024390244,5.0
+1319,VHR,Professionnel,2015,Hauts-de-France,19841.522310848504,376.0
+1320,VHR,Professionnel,2015,Inconnue,20449.0,1.0
+1321,VHR,Professionnel,2015,La Réunion,17597.546589788784,11.0
+1322,VHR,Professionnel,2015,Martinique,16968.567472306142,6.0
+1323,VHR,Professionnel,2015,Mayotte,,0.0
+1324,VHR,Professionnel,2015,Normandie,19189.28394977267,135.0
+1325,VHR,Professionnel,2015,Nouvelle-Aquitaine,19882.62312149343,279.0
+1326,VHR,Professionnel,2015,Occitanie,20464.94470887679,196.0
+1327,VHR,Professionnel,2015,Pays de la Loire,19734.534685842387,225.0
+1328,VHR,Professionnel,2015,Provence-Alpes-Côte d'Azur,17911.969214791112,334.0
+1329,VHR,Professionnel,2015,Île-de-France,17039.2469377984,2239.0
+1330,VHR,Professionnel,2016,Auvergne-Rhône-Alpes,20454.90818881182,677.0
+1331,VHR,Professionnel,2016,Bourgogne-Franche-Comté,19197.549340251757,208.0
+1332,VHR,Professionnel,2016,Bretagne,20905.983355548702,148.0
+1333,VHR,Professionnel,2016,Centre-Val de Loire,19395.86990015023,208.0
+1334,VHR,Professionnel,2016,Corse,15769.387347834765,33.0
+1335,VHR,Professionnel,2016,Grand Est,19348.18151156276,397.0
+1336,VHR,Professionnel,2016,Guadeloupe,17800.8,10.0
+1337,VHR,Professionnel,2016,Guyane,17850.790513833992,6.0
+1338,VHR,Professionnel,2016,Hauts-de-France,19313.706871190363,518.0
+1339,VHR,Professionnel,2016,Inconnue,,0.0
+1340,VHR,Professionnel,2016,La Réunion,16927.885782576446,55.0
+1341,VHR,Professionnel,2016,Martinique,14374.18910002639,18.0
+1342,VHR,Professionnel,2016,Mayotte,,0.0
+1343,VHR,Professionnel,2016,Normandie,18713.653478537068,192.0
+1344,VHR,Professionnel,2016,Nouvelle-Aquitaine,19290.584572603173,389.0
+1345,VHR,Professionnel,2016,Occitanie,20219.237296462055,313.0
+1346,VHR,Professionnel,2016,Pays de la Loire,19702.900600118173,264.0
+1347,VHR,Professionnel,2016,Provence-Alpes-Côte d'Azur,17804.314563304873,505.0
+1348,VHR,Professionnel,2016,Île-de-France,16381.62226008017,2734.0
+1349,VHR,Professionnel,2017,Auvergne-Rhône-Alpes,20562.496312213007,1077.0
+1350,VHR,Professionnel,2017,Bourgogne-Franche-Comté,19426.294964541477,230.0
+1351,VHR,Professionnel,2017,Bretagne,20030.67350763041,266.0
+1352,VHR,Professionnel,2017,Centre-Val de Loire,19816.152105283534,262.0
+1353,VHR,Professionnel,2017,Corse,16200.13729405891,62.0
+1354,VHR,Professionnel,2017,Grand Est,19504.094643536817,613.0
+1355,VHR,Professionnel,2017,Guadeloupe,16731.772445820432,20.0
+1356,VHR,Professionnel,2017,Guyane,14801.307189542484,4.0
+1357,VHR,Professionnel,2017,Hauts-de-France,18941.50340333506,877.0
+1358,VHR,Professionnel,2017,Inconnue,,0.0
+1359,VHR,Professionnel,2017,La Réunion,17062.395137347936,114.0
+1360,VHR,Professionnel,2017,Martinique,14739.34670431457,24.0
+1361,VHR,Professionnel,2017,Mayotte,,0.0
+1362,VHR,Professionnel,2017,Normandie,19674.68726631917,293.0
+1363,VHR,Professionnel,2017,Nouvelle-Aquitaine,19838.62710625069,596.0
+1364,VHR,Professionnel,2017,Occitanie,20366.072353786974,515.0
+1365,VHR,Professionnel,2017,Pays de la Loire,19829.179830572884,360.0
+1366,VHR,Professionnel,2017,Provence-Alpes-Côte d'Azur,17801.266116344526,762.0
+1367,VHR,Professionnel,2017,Île-de-France,16602.786296799157,4352.0
+1368,VHR,Professionnel,2018,Auvergne-Rhône-Alpes,20809.236041561,1802.0
+1369,VHR,Professionnel,2018,Bourgogne-Franche-Comté,20100.200198232884,354.0
+1370,VHR,Professionnel,2018,Bretagne,19941.18514318511,422.0
+1371,VHR,Professionnel,2018,Centre-Val de Loire,20466.911765197165,372.0
+1372,VHR,Professionnel,2018,Corse,16187.258856541559,99.0
+1373,VHR,Professionnel,2018,Grand Est,20652.37544816716,904.0
+1374,VHR,Professionnel,2018,Guadeloupe,16956.42025904752,37.0
+1375,VHR,Professionnel,2018,Guyane,15096.296296296296,2.0
+1376,VHR,Professionnel,2018,Hauts-de-France,19370.373218113717,1417.0
+1377,VHR,Professionnel,2018,Inconnue,,0.0
+1378,VHR,Professionnel,2018,La Réunion,17551.37499056952,201.0
+1379,VHR,Professionnel,2018,Martinique,15229.62619969162,33.0
+1380,VHR,Professionnel,2018,Mayotte,,0.0
+1381,VHR,Professionnel,2018,Normandie,20289.073851340254,407.0
+1382,VHR,Professionnel,2018,Nouvelle-Aquitaine,20224.608668276356,898.0
+1383,VHR,Professionnel,2018,Occitanie,20367.57960968266,909.0
+1384,VHR,Professionnel,2018,Pays de la Loire,20563.361740871835,556.0
+1385,VHR,Professionnel,2018,Provence-Alpes-Côte d'Azur,18152.77885847536,1279.0
+1386,VHR,Professionnel,2018,Île-de-France,16996.53124712749,6955.0
+1387,VHR,Professionnel,2019,Auvergne-Rhône-Alpes,21086.453043484493,2579.0
+1388,VHR,Professionnel,2019,Bourgogne-Franche-Comté,20528.16401883934,455.0
+1389,VHR,Professionnel,2019,Bretagne,21221.023972842464,570.0
+1390,VHR,Professionnel,2019,Centre-Val de Loire,20722.27813259466,496.0
+1391,VHR,Professionnel,2019,Corse,16791.426187330504,121.0
+1392,VHR,Professionnel,2019,Grand Est,21271.27223655361,1316.0
+1393,VHR,Professionnel,2019,Guadeloupe,17005.928979074193,50.0
+1394,VHR,Professionnel,2019,Guyane,17993.562231759657,2.0
+1395,VHR,Professionnel,2019,Hauts-de-France,20713.000580812997,2176.0
+1396,VHR,Professionnel,2019,Inconnue,,0.0
+1397,VHR,Professionnel,2019,La Réunion,17779.09582939137,256.0
+1398,VHR,Professionnel,2019,Martinique,15878.11737186102,45.0
+1399,VHR,Professionnel,2019,Mayotte,,0.0
+1400,VHR,Professionnel,2019,Normandie,21474.762702488133,610.0
+1401,VHR,Professionnel,2019,Nouvelle-Aquitaine,21026.72081105881,1315.0
+1402,VHR,Professionnel,2019,Occitanie,21103.389334944415,1353.0
+1403,VHR,Professionnel,2019,Pays de la Loire,21393.986090387323,749.0
+1404,VHR,Professionnel,2019,Provence-Alpes-Côte d'Azur,19157.982271148157,1837.0
+1405,VHR,Professionnel,2019,Île-de-France,17722.081724606065,9942.0
+1406,VHR,Professionnel,2020,Auvergne-Rhône-Alpes,15536.198328503982,3612.0
+1407,VHR,Professionnel,2020,Bourgogne-Franche-Comté,15107.001420618059,889.0
+1408,VHR,Professionnel,2020,Bretagne,15618.791927789176,769.0
+1409,VHR,Professionnel,2020,Centre-Val de Loire,15371.179613081511,707.0
+1410,VHR,Professionnel,2020,Corse,13813.08139867272,159.0
+1411,VHR,Professionnel,2020,Grand Est,15553.60934577003,1921.0
+1412,VHR,Professionnel,2020,Guadeloupe,13923.16806520473,84.0
+1413,VHR,Professionnel,2020,Guyane,20532.023911187018,5.0
+1414,VHR,Professionnel,2020,Hauts-de-France,15520.102312162746,2957.0
+1415,VHR,Professionnel,2020,Inconnue,,0.0
+1416,VHR,Professionnel,2020,La Réunion,13041.88847400241,298.0
+1417,VHR,Professionnel,2020,Martinique,13251.7831553799,67.0
+1418,VHR,Professionnel,2020,Mayotte,,0.0
+1419,VHR,Professionnel,2020,Normandie,15814.325539563035,841.0
+1420,VHR,Professionnel,2020,Nouvelle-Aquitaine,15686.665393726387,1853.0
+1421,VHR,Professionnel,2020,Occitanie,15540.863718583132,1956.0
+1422,VHR,Professionnel,2020,Pays de la Loire,15967.786902345806,1011.0
+1423,VHR,Professionnel,2020,Provence-Alpes-Côte d'Azur,14456.345429449897,2672.0
+1424,VHR,Professionnel,2020,Île-de-France,13175.818362406866,13756.0
+1425,VHR,Professionnel,2021,Auvergne-Rhône-Alpes,17074.55653996666,9440.0
+1426,VHR,Professionnel,2021,Bourgogne-Franche-Comté,16878.45433469081,2347.0
+1427,VHR,Professionnel,2021,Bretagne,17096.796764457034,2103.0
+1428,VHR,Professionnel,2021,Centre-Val de Loire,16766.672651110763,1936.0
+1429,VHR,Professionnel,2021,Corse,16109.39183009795,418.0
+1430,VHR,Professionnel,2021,Grand Est,17083.222717748868,4904.0
+1431,VHR,Professionnel,2021,Guadeloupe,16280.465009357036,191.0
+1432,VHR,Professionnel,2021,Guyane,16480.63798236737,31.0
+1433,VHR,Professionnel,2021,Hauts-de-France,17554.404058420416,5983.0
+1434,VHR,Professionnel,2021,Inconnue,21432.921934577564,6.0
+1435,VHR,Professionnel,2021,La Réunion,15489.836188243355,468.0
+1436,VHR,Professionnel,2021,Martinique,15771.75348251634,179.0
+1437,VHR,Professionnel,2021,Mayotte,17300.82028337062,6.0
+1438,VHR,Professionnel,2021,Normandie,17212.883540161023,2430.0
+1439,VHR,Professionnel,2021,Nouvelle-Aquitaine,16797.855104315084,4896.0
+1440,VHR,Professionnel,2021,Occitanie,17086.917686382214,5073.0
+1441,VHR,Professionnel,2021,Pays de la Loire,17239.415609053187,2754.0
+1442,VHR,Professionnel,2021,Provence-Alpes-Côte d'Azur,16552.157773241957,6532.0
+1443,VHR,Professionnel,2021,Île-de-France,15384.448845999681,27248.0
+1444,VHR,Professionnel,2022,Auvergne-Rhône-Alpes,21156.454516930626,19958.0
+1445,VHR,Professionnel,2022,Bourgogne-Franche-Comté,21299.29481861169,4257.0
+1446,VHR,Professionnel,2022,Bretagne,21300.321844978433,3995.0
+1447,VHR,Professionnel,2022,Centre-Val de Loire,20998.877379501006,3678.0
+1448,VHR,Professionnel,2022,Corse,19798.546681788503,1321.0
+1449,VHR,Professionnel,2022,Grand Est,21266.1885495852,9257.0
+1450,VHR,Professionnel,2022,Guadeloupe,21162.9403251022,378.0
+1451,VHR,Professionnel,2022,Guyane,19873.990734322164,119.0
+1452,VHR,Professionnel,2022,Hauts-de-France,21305.323389257348,14321.0
+1453,VHR,Professionnel,2022,Inconnue,26214.97409890119,12.0
+1454,VHR,Professionnel,2022,La Réunion,19768.978584033473,834.0
+1455,VHR,Professionnel,2022,Martinique,20259.217368309164,395.0
+1456,VHR,Professionnel,2022,Mayotte,20717.69377382465,29.0
+1457,VHR,Professionnel,2022,Normandie,21154.913759184044,5652.0
+1458,VHR,Professionnel,2022,Nouvelle-Aquitaine,21050.884116106372,10844.0
+1459,VHR,Professionnel,2022,Occitanie,21376.628745217437,10652.0
+1460,VHR,Professionnel,2022,Pays de la Loire,21347.487620048734,5542.0
+1461,VHR,Professionnel,2022,Provence-Alpes-Côte d'Azur,20877.843535142696,13193.0
+1462,VHR,Professionnel,2022,Île-de-France,19360.93576185311,51873.0
+1463,VHR,Professionnel,2023,Auvergne-Rhône-Alpes,21238.136610692458,27909.334
+1464,VHR,Professionnel,2023,Bourgogne-Franche-Comté,21381.71865123219,5738.136
+1465,VHR,Professionnel,2023,Bretagne,21357.226939720145,5527.292
+1466,VHR,Professionnel,2023,Centre-Val de Loire,21100.59678715718,4750.361
+1467,VHR,Professionnel,2023,Corse,19989.194954491788,2410.14
+1468,VHR,Professionnel,2023,Grand Est,21305.387068125976,12439.582
+1469,VHR,Professionnel,2023,Guadeloupe,21688.25601179706,576.298
+1470,VHR,Professionnel,2023,Guyane,19835.316629797002,182.0
+1471,VHR,Professionnel,2023,Hauts-de-France,21142.792199338695,18725.296
+1472,VHR,Professionnel,2023,Inconnue,26368.812865497075,18.0
+1473,VHR,Professionnel,2023,La Réunion,20343.453448874574,1212.146
+1474,VHR,Professionnel,2023,Martinique,20606.31953774705,574.213
+1475,VHR,Professionnel,2023,Mayotte,20407.818317200297,36.0
+1476,VHR,Professionnel,2023,Normandie,21061.76057549196,8825.293
+1477,VHR,Professionnel,2023,Nouvelle-Aquitaine,21301.582640682045,13863.876
+1478,VHR,Professionnel,2023,Occitanie,21421.766630923692,14931.165
+1479,VHR,Professionnel,2023,Pays de la Loire,21365.993751070844,7642.276
+1480,VHR,Professionnel,2023,Provence-Alpes-Côte d'Azur,21073.542513150882,18871.052
+1481,VHR,Professionnel,2023,Île-de-France,19551.10849828207,76282.455
